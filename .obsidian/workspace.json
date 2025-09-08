@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "3d16c80860bfd77d",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "a1502223b4393b9c",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "398f03f29df4aa08",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Subonderwerpen/Modulebeschrijvingen.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Modulebeschrijvingen"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "51e37365160c86a0",
@@ -143,8 +148,53 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "5cb1a96758a0215d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "6fffb12c0ddcf8eb",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          },
+          {
+            "id": "3ac10488ed77621a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "3c33233a7f6d45aa",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -159,9 +209,63 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "398f03f29df4aa08",
-  "lastOpenFiles": []
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "Subonderwerpen/Modulebeschrijvingen.md",
+    "Elektrische Netwerken/Les 1 - Stroom, Spanning en de wetten van Kirchhoff.md",
+    "Elektrische Netwerken/Week 13 - Capaciteit, Resistiviteit en Condensatoren.md",
+    "Subonderwerpen/Spanning.md",
+    "Subonderwerpen/Ideale spanningsbron.md",
+    "Subonderwerpen/Ideale stroombron.md",
+    "Subonderwerpen/Spanningswet van Kirchhoff.md",
+    "Microcontroller Programmeren/Week 1 B.md",
+    "Subonderwerpen/Untitled.md",
+    "Bijlages/Pasted image 20250904131619.png",
+    "Microcontroller Programmeren/Week 1.md",
+    "Elektrische Netwerken/Les week 4.md",
+    "Elektrische Netwerken/Les 3.md",
+    "Elektrische Netwerken/Les 2 - Vervangingsschema's, Weerstanden, Wet van Ohm, Schakelaars, Transistoren en H-brug.md",
+    "Subonderwerpen/Lading.md",
+    "Boeken/make_avrprogramming.pdf",
+    "Boeken/De programmeertaal C - Jesse op den Brouw.pdf",
+    "Subonderwerpen/Untitled 1.md",
+    "Microcontroller Programmeren/Oefentoets/Vraag_2/obj/Debug/main.o",
+    "Microcontroller Programmeren/Oefentoets/Vraag_2/obj/Debug/fuse.o",
+    "Microcontroller Programmeren/Oefentoets/Vraag_2/bin/Debug/Vraag_2.lfs",
+    "Microcontroller Programmeren/Oefentoets/Vraag_2/bin/Debug/Vraag_2.sig",
+    "Microcontroller Programmeren/Oefentoets/Vraag_2/bin/Debug/Vraag_2.map",
+    "Microcontroller Programmeren/Oefentoets/Vraag_2/bin/Debug/Vraag_2.lss",
+    "Microcontroller Programmeren/Oefentoets/Vraag_2/bin/Debug/Vraag_2.lock",
+    "Microcontroller Programmeren/Oefentoets/Vraag_2/bin/Debug/Vraag_2.hfs",
+    "Microcontroller Programmeren/Week 9.md",
+    "Microcontroller Programmeren/Week 13.md",
+    "Microcontroller Programmeren/Week 12 A.md",
+    "Mechanica 2/Week 8.md",
+    "Mechanica 2/Week 7.md",
+    "Mechanica 2/Week 6.md",
+    "Mechanica 2/Week 4 WC.md",
+    "Mechanica 2/Week 4 - Traagheidsmoment.md",
+    "Mechanica 2/Week 3 WC.md",
+    "Mechanica 2/Week 3 Sterkteleer.md",
+    "Mechanica 2/Week 2.md",
+    "Bijlages/Zijkant faalmechanisme.drawio.svg",
+    "Bijlages/Zijkant faalmechanisme.drawio 1.svg",
+    "Bijlages/Pasted image 20250604090409.png",
+    "Bijlages/Pasted image 20250604085919.png",
+    "Bijlages/Pasted image 20250604085917.png",
+    "Bijlages/Pasted image 20250526142015.png",
+    "Bijlages/Pasted image 20250522113318.png",
+    "Bijlages/Pasted image 20250522112352.png",
+    "Bijlages/Pasted image 20250522112344.png"
+  ]
 }

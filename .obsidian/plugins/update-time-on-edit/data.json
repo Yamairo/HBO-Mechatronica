@@ -1,0 +1,18 @@
+{
+  "dateFormat": "yyyy-MM-dd'T'HH:mm",
+  "enableCreateTime": true,
+  "headerUpdated": "updated",
+  "headerCreated": "created",
+  "minMinutesBetweenSaves": 1,
+  "ignoreGlobalFolder": [],
+  "ignoreCreatedFolder": [],
+  "enableExperimentalHash": false,
+  "fileHashMap": {
+    "Microcontroller Programmeren/Week 1.md": "1b576fc9aba5761778f77cf85ca796edec0c06d2d5173e0092050a89cd8690f7",
+    "Elektrische Netwerken/Les 1 - Stroom, Spanning en de wetten van Kirchhoff.md": "58a710b1388142399c95027dddf88799ac8752e8518c1a343b60a49386f3c15b",
+    "Subonderwerpen/Lading.md": "269662e1f2e38880eb6e158cb64b5404a5bf54d7a8881b38b32b32470799f5d7",
+    "Microcontroller Programmeren/Week 1 B.md": "b045ac1b08590a8691cfe90f67559414e020a799e9915f28fbce79f95974b864",
+    "Subonderwerpen/Ideale stroombron.md": "b982d527af58377ca44a0e73cb153b33a0853b9ac64f99a25f272e9616c1d4d7",
+    "Subonderwerpen/Modulebeschrijvingen.md": "4622d5bc28f1bcf8d3ea908f968c86f5c3986308909dd9b4860d830caba37985"
+  }
+}
