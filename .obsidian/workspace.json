@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "9e1c6194291fb48c",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "31595aa2f70447f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subonderwerpen/Modulebeschrijvingen.md",
-                "mode": "source",
-                "source": false
+                "file": "Elektrische Netwerken/Les 2 - Vervangingsschema's, Weerstanden, Wet van Ohm, Schakelaars, Transistoren en H-brug.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Modulebeschrijvingen"
+              "title": "Les 2 - Vervangingsschema's, Weerstanden, Wet van Ohm, Schakelaars, Transistoren en H-brug"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "51e37365160c86a0",
@@ -95,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Microcontroller Programmeren/Week 2A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Week 2A"
             }
           },
           {
@@ -193,8 +193,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "horizontal",
@@ -219,8 +218,25 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "31595aa2f70447f6",
   "lastOpenFiles": [
+    "Elektrische Netwerken/Les week 4.md",
+    "Sensoren en Actuatoren/Week 4.md",
+    "Subonderwerpen/Ideale schakelaar.md",
+    "Elektrische Netwerken/Les 3.md",
+    "Elektrische Netwerken/Qucs/ELNET_Week_2/KVL_3.dat.ngspice",
+    "Microcontroller Programmeren/Week 2A.md",
+    "Boeken/ATmega640-1280-1281-2560-2561-Datasheet-DS40002211A.pdf",
+    "Bijlages/Pasted image 20250909114414.png",
+    "Microcontroller Programmeren/Week 1.md",
+    "Microcontroller Programmeren/Week 1 B.md",
+    "Bijlages/Pasted image 20250909113346.png",
+    "Boeken/2004-CISM_vo.pdf",
+    "Boeken/Mega2560 Pinout.pdf",
+    "Boeken/make_avrprogramming.pdf",
+    "Microcontroller Programmeren/Week 12 A.md",
+    "Subonderwerpen/Plan 2025.md",
+    "Bijlages/Plan 2025.pdf",
     "Subonderwerpen/Modulebeschrijvingen.md",
     "Elektrische Netwerken/Les 1 - Stroom, Spanning en de wetten van Kirchhoff.md",
     "Elektrische Netwerken/Week 13 - Capaciteit, Resistiviteit en Condensatoren.md",
@@ -228,44 +244,27 @@
     "Subonderwerpen/Ideale spanningsbron.md",
     "Subonderwerpen/Ideale stroombron.md",
     "Subonderwerpen/Spanningswet van Kirchhoff.md",
-    "Microcontroller Programmeren/Week 1 B.md",
     "Subonderwerpen/Untitled.md",
     "Bijlages/Pasted image 20250904131619.png",
-    "Microcontroller Programmeren/Week 1.md",
-    "Elektrische Netwerken/Les week 4.md",
-    "Elektrische Netwerken/Les 3.md",
     "Elektrische Netwerken/Les 2 - Vervangingsschema's, Weerstanden, Wet van Ohm, Schakelaars, Transistoren en H-brug.md",
     "Subonderwerpen/Lading.md",
-    "Boeken/make_avrprogramming.pdf",
     "Boeken/De programmeertaal C - Jesse op den Brouw.pdf",
     "Subonderwerpen/Untitled 1.md",
     "Microcontroller Programmeren/Oefentoets/Vraag_2/obj/Debug/main.o",
     "Microcontroller Programmeren/Oefentoets/Vraag_2/obj/Debug/fuse.o",
     "Microcontroller Programmeren/Oefentoets/Vraag_2/bin/Debug/Vraag_2.lfs",
-    "Microcontroller Programmeren/Oefentoets/Vraag_2/bin/Debug/Vraag_2.sig",
-    "Microcontroller Programmeren/Oefentoets/Vraag_2/bin/Debug/Vraag_2.map",
-    "Microcontroller Programmeren/Oefentoets/Vraag_2/bin/Debug/Vraag_2.lss",
-    "Microcontroller Programmeren/Oefentoets/Vraag_2/bin/Debug/Vraag_2.lock",
-    "Microcontroller Programmeren/Oefentoets/Vraag_2/bin/Debug/Vraag_2.hfs",
     "Microcontroller Programmeren/Week 9.md",
     "Microcontroller Programmeren/Week 13.md",
-    "Microcontroller Programmeren/Week 12 A.md",
     "Mechanica 2/Week 8.md",
     "Mechanica 2/Week 7.md",
     "Mechanica 2/Week 6.md",
     "Mechanica 2/Week 4 WC.md",
-    "Mechanica 2/Week 4 - Traagheidsmoment.md",
-    "Mechanica 2/Week 3 WC.md",
-    "Mechanica 2/Week 3 Sterkteleer.md",
-    "Mechanica 2/Week 2.md",
     "Bijlages/Zijkant faalmechanisme.drawio.svg",
     "Bijlages/Zijkant faalmechanisme.drawio 1.svg",
     "Bijlages/Pasted image 20250604090409.png",
     "Bijlages/Pasted image 20250604085919.png",
     "Bijlages/Pasted image 20250604085917.png",
     "Bijlages/Pasted image 20250526142015.png",
-    "Bijlages/Pasted image 20250522113318.png",
-    "Bijlages/Pasted image 20250522112352.png",
-    "Bijlages/Pasted image 20250522112344.png"
+    "Bijlages/Pasted image 20250522113318.png"
   ]
 }
