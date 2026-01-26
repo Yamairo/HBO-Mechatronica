@@ -1,6 +1,6 @@
 ---
 created: 2024-12-04T08:46
-updated: 2024-12-04T10:16
+updated: 2026-01-18T20:42
 ---
 # Inhoudsopgave
 ```toc
@@ -82,11 +82,11 @@ Dus de stroom tijdens de eerste ms is $i_{C}=67\cdot 10^{-6} \cdot 16 \cdot 10^3
 ### Plaatcondensator
 Bij twee parallele platen is de [[Capaciteit]] 
 $$
-C = {\epsilon}_0{\epsilon}_{r{A/d}}
+C = {\epsilon}_0{\epsilon}_r\frac{A}{d}
 $$
 - C de capaciteit is, in farad (F),
 - $\epsilon_0$ de permittiviteit van het vacuüm ($8,854×10−12 F/m$),
-- $\epsilon_0$  de relatieve permittiviteit van het diëlektricum tussen de platen (dimensieloos),
+- $\epsilon_r$  de relatieve permittiviteit van het diëlektricum tussen de platen (dimensieloos),
 - A het oppervlak van een plaat, in $m^2$,
 - d de afstand tussen de platen, in meter (mmm).
 

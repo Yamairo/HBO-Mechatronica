@@ -27,7 +27,7 @@
   "Editor@@codeblock-style-select": "codeblock-style-dracula",
   "Editor@@disable-alternative-checkboxes": false,
   "Editor@@border-focus-mode": false,
-  "Appearance-dark@@theme-dark-style-select": "theme-dark-background-brighter",
+  "Appearance-dark@@theme-dark-style-select": "theme-dark-background-darker",
   "Appearance-dark@@accent-color-override-dark": false,
   "Editor@@italic-color@@light": "#000000",
   "Editor@@italic-color@@dark": "#EAC3F5",
