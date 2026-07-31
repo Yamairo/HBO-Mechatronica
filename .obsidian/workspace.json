@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "495131196bdd6c3d",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "e84b44b237acce99",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Boeken/ATmega640-1280-1281-2560-2561-Datasheet-DS40002211A.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "ATmega640-1280-1281-2560-2561-Datasheet-DS40002211A"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -51,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "unti",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 437.5
   },
   "right": {
     "id": "51e37365160c86a0",
@@ -168,8 +165,8 @@
             "state": {
               "type": "todo",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "todo"
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           },
           {
@@ -203,8 +200,31 @@
               "icon": "lucide-file-text",
               "title": "2425_ME_WIS1_24_T2_V1_Tentamen_uitwerkingen"
             }
+          },
+          {
+            "id": "8a81983d7c3dfe01",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
+          },
+          {
+            "id": "94db2794a0bb4753",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Industriële Besturing Programmeren/Toetsen/220616 PNEUM-T1 - Antwoordmodel en puntenverdeling.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "220616 PNEUM-T1 - Antwoordmodel en puntenverdeling"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -229,52 +249,53 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "e84b44b237acce99",
   "lastOpenFiles": [
-    "Boeken/prog1-t2 programmeren 1 _voorbeeldtoets_met_antwoorden - Copy.pdf",
-    "Boeken/ATmega640-1280-1281-2560-2561-Datasheet-DS40002211A.pdf",
-    "Boeken/Mega2560 Pinout.pdf",
-    "Subonderwerpen/Timer Registers.md",
-    "Microcontroller Programmeren/Week 1 B.md",
-    "Microcontroller Programmeren/Week 2A.md",
-    "Microcontroller Programmeren/Week 9.md",
-    "Microcontroller Programmeren/Week 13.md",
-    "Microcontroller Programmeren/Week 12 A.md",
+    "Industriële Besturing Programmeren/Toetsen/2021-11-12 PLC-techniek (toets).pdf",
+    "Industriële Besturing Programmeren/Toetsen/2024-10-21 PLC-techniek (antwoorden).pdf",
+    "Industriële Besturing Programmeren/Toetsen/2024-10-21 PLC-techniek (toets).pdf",
+    "Industriële Besturing Programmeren/Presentaties/Week 11 - Programmastructuur en Remote IO.pdf",
+    "Industriële Besturing Programmeren/Presentaties/Week 2 - Pneumatische en Elektro-Pneumatische schakelingen.pdf",
+    "Industriële Besturing Programmeren/Toetsen/220616 PNEUM-T1 - Toets.pdf",
+    "Industriële Besturing Programmeren/Toetsen/240613 PNEUM-T1 - Toets.pdf",
+    "Industriële Besturing Programmeren/Toetsen/240613 PNEUM-T1 - Uitwerkingen 2.pdf",
+    "Industriële Besturing Programmeren/Toetsen/240627 PNEUM-T1 - Toets antwoorden.pdf",
+    "Industriële Besturing Programmeren/Toetsen/240627 PNEUM-T1 - Toets.pdf",
+    "Industriële Besturing Programmeren/Presentaties/Week 14 - Kinematica 2.pdf",
+    "Sensoren en Actuatoren/Samenvatting Voor Tentamen.md",
+    "Subonderwerpen/Untitled.md",
+    "Industriële Besturing Programmeren/Week 3 - Rising Falling Edge, Begin Geheugens.md",
+    "Industriële Besturing Programmeren/Week 8.md",
     "Industriële Besturing Programmeren/Week 7.md",
-    "Elektrische Netwerken/Week 13 - Capaciteit, Resistiviteit en Condensatoren.md",
-    "Subonderwerpen/Elektromagnetische inductie.md",
-    "Subonderwerpen/Outputs.md",
-    "Subonderwerpen/Ideale stroombron.md",
-    "Subonderwerpen/Lading.md",
-    "Subonderwerpen/Weerstand.md",
-    "Elektrische Netwerken/Les week 6.md",
-    "Subonderwerpen/Stroom.md",
-    "Subonderwerpen/Norton.md",
-    "Subonderwerpen/Inputs.md",
-    "Boeken/2526_ME_WIS1_24_OpgavenLesWeek9.pdf",
-    "Boeken/2425_ME_WIS1_24_T2_V1_Tentamen_uitwerkingen.pdf",
-    "Boeken/Unconfirmed 295708.crdownload",
-    "Boeken/2425_ME_WIS1_24_T2_V1_Tentamen.pdf",
-    "Boeken/Unconfirmed 340585.crdownload",
-    "Elektrische Netwerken/Les 3.md",
-    "Elektrische Netwerken/Les 2 - Vervangingsschema's, Weerstanden, Wet van Ohm, Schakelaars, Transistoren en H-brug.md",
-    "Elektrische Netwerken/Les 1 - Stroom, Spanning en de wetten van Kirchhoff.md",
-    "Subonderwerpen/Oefenen programmeren 1.md",
-    "Elektrische Netwerken/Les week 4.md",
+    "Industriële Besturing Programmeren/Week 5 - Besturingsalgebra.md",
+    "Excalidraw/Drawing 2026-06-13 15.40.13.excalidraw.md",
+    "Bijlages/Pasted image 20260613143627.png",
+    "Industriële Besturing Programmeren/Week 4 - Geheugens.md",
+    "Industriële Besturing Programmeren/Week 10.md",
+    "Industriële Besturing Programmeren/Week 11.md",
+    "Industriële Besturing Programmeren/Week 12.md",
+    "Industriële Besturing Programmeren/Week 14 - Kinematica Toepassen.md",
+    "Sensoren en Actuatoren/Week 1.md",
+    "Sensoren en Actuatoren/Week 2.md",
+    "Sensoren en Actuatoren/Week 6.md",
+    "Sensoren en Actuatoren/Week 5.md",
     "Sensoren en Actuatoren/Week 4.md",
-    "Subonderwerpen/Ideale schakelaar.md",
-    "Elektrische Netwerken/Qucs/ELNET_Week_2/KVL_3.dat.ngspice",
+    "Sensoren en Actuatoren/Week 3.md",
+    "Bijlages/Pasted image 20260422164014.png",
+    "Industriële Besturing Programmeren/Week 1 - Introductie Pneumatiek, Hydrauliek en WST.md",
+    "Industriële Besturing Programmeren/Week 2 - Besturingscommando's, Stappenplan, Ventielen en Logische Basisfuncties.md",
+    "Mechanica 2/Week 7.md",
+    "Mechanica 2/Week 6.md",
+    "Mechanica 2/Week 4 WC.md",
+    "Mechanica 2/Week 4 - Traagheidsmoment.md",
+    "Mechanica 2/Week 3 WC.md",
     "Bijlages/Pasted image 20250909114414.png",
-    "Microcontroller Programmeren/Week 1.md",
     "Bijlages/Pasted image 20250909113346.png",
-    "Boeken/2004-CISM_vo.pdf",
     "Bijlages/Pasted image 20250904131619.png",
     "Bijlages/Zijkant faalmechanisme.drawio.svg",
     "Bijlages/Zijkant faalmechanisme.drawio 1.svg",
     "Bijlages/Pasted image 20250604090409.png",
     "Bijlages/Pasted image 20250604085919.png",
-    "Bijlages/Pasted image 20250604085917.png",
-    "Bijlages/Pasted image 20250526142015.png",
-    "Bijlages/Pasted image 20250522113318.png"
+    "Bijlages/Pasted image 20250604085917.png"
   ]
 }

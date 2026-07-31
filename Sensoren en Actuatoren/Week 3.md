@@ -1,6 +1,6 @@
 ---
 created: 2025-03-04T15:31
-updated: 2025-03-04T16:56
+updated: 2026-04-22T16:57
 ---
 
 ---
@@ -44,16 +44,6 @@ Voor het kiezen van actuatoren zijn bepaalde criteria die van belang zijn deze z
 
 - Lager kan kapotgaan
 - Oververhitting
-
-### Oververhitting voorkomen
-- Elektrisch **Stroombegrenzing**
-	1. Labvoeding instellen
-	2. Zekering
-	3. Motor controller instellen
-	4. Motor met thermische beveiliging: sensor+schakelaar
-- Mechanisch: **Koppel begrenzen**
-
----
 
 ## Rotationele beweging omzetten naar lineair
 
