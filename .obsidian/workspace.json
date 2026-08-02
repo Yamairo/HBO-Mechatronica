@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "495131196bdd6c3d",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "e84b44b237acce99",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -37,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -65,7 +67,10 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
@@ -74,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 437.5
+    "width": 200
   },
   "right": {
     "id": "51e37365160c86a0",
@@ -165,8 +170,8 @@
             "state": {
               "type": "todo",
               "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
+              "icon": "lucide-ghost",
+              "title": "todo"
             }
           },
           {
@@ -207,8 +212,8 @@
             "state": {
               "type": "git-history-view",
               "state": {},
-              "icon": "history",
-              "title": "History"
+              "icon": "lucide-ghost",
+              "title": "git-history-view"
             }
           },
           {
@@ -222,9 +227,19 @@
               "icon": "lucide-file-text",
               "title": "220616 PNEUM-T1 - Antwoordmodel en puntenverdeling"
             }
+          },
+          {
+            "id": "58f6f0826e1185a4",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 11
       }
     ],
     "direction": "horizontal",
@@ -233,11 +248,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "homepage:Open homepage": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -246,56 +256,62 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false,
       "card-board:CardBoard": false
     }
   },
-  "active": "e84b44b237acce99",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Industriële Besturing Programmeren/Toetsen/2021-11-12 PLC-techniek (toets).pdf",
-    "Industriële Besturing Programmeren/Toetsen/2024-10-21 PLC-techniek (antwoorden).pdf",
-    "Industriële Besturing Programmeren/Toetsen/2024-10-21 PLC-techniek (toets).pdf",
-    "Industriële Besturing Programmeren/Presentaties/Week 11 - Programmastructuur en Remote IO.pdf",
-    "Industriële Besturing Programmeren/Presentaties/Week 2 - Pneumatische en Elektro-Pneumatische schakelingen.pdf",
-    "Industriële Besturing Programmeren/Toetsen/220616 PNEUM-T1 - Toets.pdf",
-    "Industriële Besturing Programmeren/Toetsen/240613 PNEUM-T1 - Toets.pdf",
-    "Industriële Besturing Programmeren/Toetsen/240613 PNEUM-T1 - Uitwerkingen 2.pdf",
-    "Industriële Besturing Programmeren/Toetsen/240627 PNEUM-T1 - Toets antwoorden.pdf",
-    "Industriële Besturing Programmeren/Toetsen/240627 PNEUM-T1 - Toets.pdf",
-    "Industriële Besturing Programmeren/Presentaties/Week 14 - Kinematica 2.pdf",
-    "Sensoren en Actuatoren/Samenvatting Voor Tentamen.md",
-    "Subonderwerpen/Untitled.md",
-    "Industriële Besturing Programmeren/Week 3 - Rising Falling Edge, Begin Geheugens.md",
-    "Industriële Besturing Programmeren/Week 8.md",
-    "Industriële Besturing Programmeren/Week 7.md",
-    "Industriële Besturing Programmeren/Week 5 - Besturingsalgebra.md",
-    "Excalidraw/Drawing 2026-06-13 15.40.13.excalidraw.md",
-    "Bijlages/Pasted image 20260613143627.png",
-    "Industriële Besturing Programmeren/Week 4 - Geheugens.md",
-    "Industriële Besturing Programmeren/Week 10.md",
-    "Industriële Besturing Programmeren/Week 11.md",
-    "Industriële Besturing Programmeren/Week 12.md",
-    "Industriële Besturing Programmeren/Week 14 - Kinematica Toepassen.md",
-    "Sensoren en Actuatoren/Week 1.md",
-    "Sensoren en Actuatoren/Week 2.md",
-    "Sensoren en Actuatoren/Week 6.md",
-    "Sensoren en Actuatoren/Week 5.md",
-    "Sensoren en Actuatoren/Week 4.md",
-    "Sensoren en Actuatoren/Week 3.md",
-    "Bijlages/Pasted image 20260422164014.png",
-    "Industriële Besturing Programmeren/Week 1 - Introductie Pneumatiek, Hydrauliek en WST.md",
-    "Industriële Besturing Programmeren/Week 2 - Besturingscommando's, Stappenplan, Ventielen en Logische Basisfuncties.md",
-    "Mechanica 2/Week 7.md",
-    "Mechanica 2/Week 6.md",
-    "Mechanica 2/Week 4 WC.md",
-    "Mechanica 2/Week 4 - Traagheidsmoment.md",
-    "Mechanica 2/Week 3 WC.md",
-    "Bijlages/Pasted image 20250909114414.png",
-    "Bijlages/Pasted image 20250909113346.png",
-    "Bijlages/Pasted image 20250904131619.png",
-    "Bijlages/Zijkant faalmechanisme.drawio.svg",
-    "Bijlages/Zijkant faalmechanisme.drawio 1.svg",
-    "Bijlages/Pasted image 20250604090409.png",
-    "Bijlages/Pasted image 20250604085919.png",
-    "Bijlages/Pasted image 20250604085917.png"
+    "Jaar 2",
+    "Jaar 1/Wiskunde 2/Week 3.md",
+    "Jaar 1/Wiskunde 2/Week 3 opdrachten.md",
+    "Jaar 1/Wiskunde 2/Week 15.md",
+    "Jaar 1/Wiskunde 2/Week 14.md",
+    "Jaar 1/Wiskunde 2",
+    "Jaar 1/Statica/Les 5 -.md",
+    "Jaar 1/Statica/Les 4.md",
+    "Jaar 1/Statica/Les 2 - Puntmassa's.md",
+    "Jaar 1/Statica/Les 3 - Momenten, koppels.md",
+    "Jaar 1/Statica/Les 1 - Krachten.md",
+    "Jaar 1/Statica",
+    "Jaar 1/Solidworks/SOLIDWORKS Visualize Content/Appearances/Stone/Architectural/Slate/Slate.svap",
+    "Jaar 1/Solidworks/SOLIDWORKS Visualize Content/Appearances/Stone/Architectural/Sandstone/Red Sandstone.svap",
+    "Jaar 1/Solidworks/SOLIDWORKS Visualize Content/Appearances/Stone/Architectural/Marble/White Marble Dull.svap",
+    "Jaar 1/Solidworks/SOLIDWORKS Visualize Content/Appearances/Stone/Architectural/Marble/Green Marble.svap",
+    "Jaar 1/Solidworks/SOLIDWORKS Visualize Content/Appearances/Stone/Architectural/Marble/Jade.svap",
+    "Jaar 1/Solidworks/SOLIDWORKS Visualize Content/Appearances/Stone/Architectural/Limestone/Limestone.svap",
+    "Jaar 1/Solidworks/SOLIDWORKS Visualize Content/Appearances/Stone/Architectural/Granite/Granite.svap",
+    "Jaar 1/Solidworks/SOLIDWORKS Visualize Content/Appearances/Stone/Architectural/Cobblestone/Cobblestone.svap",
+    "Jaar 1/Solidworks/3d Modeleren/Stuklijst onderdelen CAD 2024-2025/Nidec/DC-motoren/404603 slow/Wiring diagram.JPG",
+    "Jaar 1/Solidworks/3d Modeleren/Stuklijst onderdelen CAD 2024-2025/Nidec/DC-motoren/404603 slow/Shaft.JPG",
+    "Jaar 1/Solidworks/3d Modeleren/Stuklijst onderdelen CAD 2024-2025/Nidec/DC-motoren/404603 slow/Motor.JPG",
+    "Jaar 1/Solidworks/3d Modeleren/Stuklijst onderdelen CAD 2024-2025/Nidec/DC-motoren/404603 slow/Datasheet.JPG",
+    "Jaar 1/Solidworks/3d Modeleren/Stuklijst onderdelen CAD 2024-2025/Nidec/DC-motoren/404603 slow/Connection.JPG",
+    "Jaar 1/Solidworks/3d Modeleren/Stuklijst onderdelen CAD 2024-2025/Nidec/DC-motoren/404603 slow/Characteristic curve.JPG",
+    "Jaar 1/Solidworks/3d Modeleren/Stuklijst onderdelen CAD 2024-2025/Nidec/DC-motoren/404157 fast/Wiring Diagram.JPG",
+    "Jaar 1/Solidworks/3d Modeleren/Stuklijst onderdelen CAD 2024-2025/Nidec/DC-motoren/404157 fast/Shaft.JPG",
+    "Jaar 1/Solidworks/3d Modeleren/Stuklijst onderdelen CAD 2024-2025/Nidec/DC-motoren/404157 fast/Motor.JPG",
+    "Jaar 1/Solidworks/3d Modeleren/Stuklijst onderdelen CAD 2024-2025/Nidec/DC-motoren/404157 fast/Datasheet.JPG",
+    "Jaar 1/Solidworks/3d Modeleren/Bronnen.md",
+    "Jaar 1/Sensoren en Actuatoren/Week 6.md",
+    "Jaar 1/Sensoren en Actuatoren/Week 6 Practicum.md",
+    "Jaar 1/Sensoren en Actuatoren/Week 5.md",
+    "Jaar 1/Sensoren en Actuatoren/Week 4.md",
+    "Jaar 1/Sensoren en Actuatoren/Week 3.md",
+    "Jaar 1/Sensoren en Actuatoren/Week 2.md",
+    "Jaar 1/Sensoren en Actuatoren/Week 15.md",
+    "Jaar 1/Sensoren en Actuatoren/Week 13.md",
+    "Jaar 1/Sensoren en Actuatoren/Week 12.md",
+    "Jaar 1/Sensoren en Actuatoren/Week 1.md",
+    "Jaar 1/Sensoren en Actuatoren/Samenvatting Voor Tentamen.md",
+    "Jaar 1/Ontwerpen in groepen 2/Portfolio/Vergaderen.md",
+    "Jaar 1/Ontwerpen in groepen 2/Portfolio/Zakelijke-Email.md",
+    "Jaar 1/Ontwerpen in groepen 2/Portfolio/Softskills.md",
+    "Jaar 1/Ontwerpen in groepen 2/Portfolio/Risico-Analyse.md",
+    "Jaar 1/Ontwerpen in groepen/Evaporating cloud.canvas"
   ]
 }
