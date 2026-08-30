@@ -234,12 +234,22 @@
             "state": {
               "type": "todo",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "todo"
+            }
+          },
+          {
+            "id": "c6c3087956432932",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
               "icon": "checkmark",
               "title": "Todo List"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "horizontal",
@@ -264,8 +274,18 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "293a8dcd461d3204",
   "lastOpenFiles": [
+    "Jaar 2/Machines Ontwerpen",
+    "Jaar 2/Programmeren",
+    "Jaar 2/Duurzaam Ontwerpen",
+    "Jaar 2/Project",
+    "Jaar 2/Vision",
+    "Jaar 2/Dynamica",
+    "Boeken/make_avrprogramming.pdf",
+    "Boeken/ATmega640-1280-1281-2560-2561-Datasheet-DS40002211A.pdf",
+    "Boeken/De programmeertaal C - Jesse op den Brouw.pdf",
+    "Jaar 1/Mechanica 2/Week 2.md",
     "Jaar 2",
     "Jaar 1/Wiskunde 2/Week 3.md",
     "Jaar 1/Wiskunde 2/Week 3 opdrachten.md",
@@ -277,15 +297,6 @@
     "Jaar 1/Statica/Les 2 - Puntmassa's.md",
     "Jaar 1/Statica/Les 3 - Momenten, koppels.md",
     "Jaar 1/Statica/Les 1 - Krachten.md",
-    "Jaar 1/Statica",
-    "Jaar 1/Solidworks/SOLIDWORKS Visualize Content/Appearances/Stone/Architectural/Slate/Slate.svap",
-    "Jaar 1/Solidworks/SOLIDWORKS Visualize Content/Appearances/Stone/Architectural/Sandstone/Red Sandstone.svap",
-    "Jaar 1/Solidworks/SOLIDWORKS Visualize Content/Appearances/Stone/Architectural/Marble/White Marble Dull.svap",
-    "Jaar 1/Solidworks/SOLIDWORKS Visualize Content/Appearances/Stone/Architectural/Marble/Green Marble.svap",
-    "Jaar 1/Solidworks/SOLIDWORKS Visualize Content/Appearances/Stone/Architectural/Marble/Jade.svap",
-    "Jaar 1/Solidworks/SOLIDWORKS Visualize Content/Appearances/Stone/Architectural/Limestone/Limestone.svap",
-    "Jaar 1/Solidworks/SOLIDWORKS Visualize Content/Appearances/Stone/Architectural/Granite/Granite.svap",
-    "Jaar 1/Solidworks/SOLIDWORKS Visualize Content/Appearances/Stone/Architectural/Cobblestone/Cobblestone.svap",
     "Jaar 1/Solidworks/3d Modeleren/Stuklijst onderdelen CAD 2024-2025/Nidec/DC-motoren/404603 slow/Wiring diagram.JPG",
     "Jaar 1/Solidworks/3d Modeleren/Stuklijst onderdelen CAD 2024-2025/Nidec/DC-motoren/404603 slow/Shaft.JPG",
     "Jaar 1/Solidworks/3d Modeleren/Stuklijst onderdelen CAD 2024-2025/Nidec/DC-motoren/404603 slow/Motor.JPG",
@@ -311,7 +322,6 @@
     "Jaar 1/Ontwerpen in groepen 2/Portfolio/Vergaderen.md",
     "Jaar 1/Ontwerpen in groepen 2/Portfolio/Zakelijke-Email.md",
     "Jaar 1/Ontwerpen in groepen 2/Portfolio/Softskills.md",
-    "Jaar 1/Ontwerpen in groepen 2/Portfolio/Risico-Analyse.md",
     "Jaar 1/Ontwerpen in groepen/Evaporating cloud.canvas"
   ]
 }
