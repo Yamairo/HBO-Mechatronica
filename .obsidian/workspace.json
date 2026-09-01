@@ -4,27 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e7a7b303c61786dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jaar 2/Signalen en datacommunicatie/Week 1.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Week 1"
-            },
-            "group": "dfd2d41c96f2e6f8"
-          }
-        ]
-      },
-      {
         "id": "d4c9f3937a0c2e7f",
         "type": "tabs",
         "children": [
@@ -34,14 +13,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jaar 2/Signalen en datacommunicatie/Week 1.md",
+                "file": "Jaar 2/Duurzaam Ontwerpen/Week 1.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Week 1"
+            },
+            "group": "c2b6af99ae23e904"
+          }
+        ]
+      },
+      {
+        "id": "a3d34ad0e793cfb1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ee88351ad85cceb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jaar 2/Duurzaam Ontwerpen/Week 1.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "Week 1"
             },
-            "group": "dfd2d41c96f2e6f8"
+            "group": "c2b6af99ae23e904"
           }
         ]
       }
@@ -273,9 +273,21 @@
               "icon": "trident-custom",
               "title": "Mermaid Toolbar"
             }
+          },
+          {
+            "id": "dbf3612889cb99bd",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Jaar 2/Duurzaam Ontwerpen/Week 1.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "horizontal",
@@ -300,47 +312,11 @@
       "card-board:CardBoard": false
     }
   },
-  "floating": {
-    "id": "b4ba9b38029daa5b",
-    "type": "floating",
-    "children": [
-      {
-        "id": "851b3d710e00fb84",
-        "type": "window",
-        "children": [
-          {
-            "id": "167d5f9d9160dffa",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ecc7296c5056c13e",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Jaar 2/Vision/Werkcollege PDF/Opdrachten Week 1.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Opdrachten Week 1"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1,
-        "y": 0,
-        "width": 789,
-        "height": 961,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "e7a7b303c61786dc",
+  "active": "7b5e2c5225d9704a",
   "lastOpenFiles": [
-    "Jaar 2/Vision/Werkcollege PDF/Opdrachten Week 1.pdf",
     "Jaar 2/Signalen en datacommunicatie/Week 1.md",
+    "Jaar 2/Duurzaam Ontwerpen/Week 1.md",
+    "Jaar 2/Vision/Werkcollege PDF/Opdrachten Week 1.pdf",
     "Bijlages/Pasted image 20260901110642.png",
     "Jaar 1/Industriële Besturing Programmeren/Week 14 - Kinematica Toepassen.md",
     "Jaar 2/Signalen en datacommunicatie",
