@@ -1,0 +1,11 @@
+gimp
+a9b734
+
+inkscape
+a9b734ff
+
+notepad
+a9b734
+
+online color picker
+a9b734
