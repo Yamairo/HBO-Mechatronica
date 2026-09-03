@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a05e0d105106ac51",
+    "id": "898020aa7acff365",
     "type": "split",
     "children": [
       {
-        "id": "38e56285b751bc2f",
+        "id": "4ed965a7331ff531",
         "type": "tabs",
         "children": [
           {
-            "id": "293a8dcd461d3204",
+            "id": "51c925b2db359787",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -46,12 +46,12 @@
             }
           },
           {
-            "id": "46c16b405107b81f",
+            "id": "ca125775383eda4f",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "unti",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +63,7 @@
             }
           },
           {
-            "id": "48559bb7421baf03",
+            "id": "956ba38b16839cf8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -79,23 +79,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "51e37365160c86a0",
+    "id": "e2546aceba2e744d",
     "type": "split",
     "children": [
       {
-        "id": "ee68e17b4d763629",
+        "id": "ef0b8ba49dc8f21d",
         "type": "tabs",
         "children": [
           {
-            "id": "592facfa02c1bb23",
+            "id": "e7972aa55456eb29",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boeken/2526_ME_WIS1_24_OpgavenLesWeek9.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,11 +104,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2526_ME_WIS1_24_OpgavenLesWeek9"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "32efd738119ed857",
+            "id": "51522248b900d8ec",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -122,7 +121,7 @@
             }
           },
           {
-            "id": "a6a30bd009da5154",
+            "id": "3cadf0f5abcdb9b6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,21 +136,7 @@
             }
           },
           {
-            "id": "dd1325fdca76de6c",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "5cb1a96758a0215d",
+            "id": "1a000aac3f66f63f",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -165,81 +150,31 @@
             }
           },
           {
-            "id": "6fffb12c0ddcf8eb",
+            "id": "33a6219fa1ee8be5",
             "type": "leaf",
             "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "todo"
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           },
           {
-            "id": "3ac10488ed77621a",
+            "id": "4e81aa459467c3f6",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
-            "id": "3c33233a7f6d45aa",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
-            }
-          },
-          {
-            "id": "f981fb4f90552248",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Boeken/2425_ME_WIS1_24_T2_V1_Tentamen_uitwerkingen.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "2425_ME_WIS1_24_T2_V1_Tentamen_uitwerkingen"
-            }
-          },
-          {
-            "id": "8a81983d7c3dfe01",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-history-view"
-            }
-          },
-          {
-            "id": "94db2794a0bb4753",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Industriële Besturing Programmeren/Toetsen/220616 PNEUM-T1 - Antwoordmodel en puntenverdeling.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "220616 PNEUM-T1 - Antwoordmodel en puntenverdeling"
-            }
-          },
-          {
-            "id": "58f6f0826e1185a4",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "todo"
-            }
-          },
-          {
-            "id": "c6c3087956432932",
+            "id": "905bbffb2069c312",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -249,7 +184,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -258,7 +193,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-advanced-slides:Show Slide Preview": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -271,57 +205,9 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "homepage:Open homepage": false,
-      "card-board:CardBoard": false
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "293a8dcd461d3204",
-  "lastOpenFiles": [
-    "Jaar 2/Machines Ontwerpen",
-    "Jaar 2/Programmeren",
-    "Jaar 2/Duurzaam Ontwerpen",
-    "Jaar 2/Project",
-    "Jaar 2/Vision",
-    "Jaar 2/Dynamica",
-    "Boeken/make_avrprogramming.pdf",
-    "Boeken/ATmega640-1280-1281-2560-2561-Datasheet-DS40002211A.pdf",
-    "Boeken/De programmeertaal C - Jesse op den Brouw.pdf",
-    "Jaar 1/Mechanica 2/Week 2.md",
-    "Jaar 2",
-    "Jaar 1/Wiskunde 2/Week 3.md",
-    "Jaar 1/Wiskunde 2/Week 3 opdrachten.md",
-    "Jaar 1/Wiskunde 2/Week 15.md",
-    "Jaar 1/Wiskunde 2/Week 14.md",
-    "Jaar 1/Wiskunde 2",
-    "Jaar 1/Statica/Les 5 -.md",
-    "Jaar 1/Statica/Les 4.md",
-    "Jaar 1/Statica/Les 2 - Puntmassa's.md",
-    "Jaar 1/Statica/Les 3 - Momenten, koppels.md",
-    "Jaar 1/Statica/Les 1 - Krachten.md",
-    "Jaar 1/Solidworks/3d Modeleren/Stuklijst onderdelen CAD 2024-2025/Nidec/DC-motoren/404603 slow/Wiring diagram.JPG",
-    "Jaar 1/Solidworks/3d Modeleren/Stuklijst onderdelen CAD 2024-2025/Nidec/DC-motoren/404603 slow/Shaft.JPG",
-    "Jaar 1/Solidworks/3d Modeleren/Stuklijst onderdelen CAD 2024-2025/Nidec/DC-motoren/404603 slow/Motor.JPG",
-    "Jaar 1/Solidworks/3d Modeleren/Stuklijst onderdelen CAD 2024-2025/Nidec/DC-motoren/404603 slow/Datasheet.JPG",
-    "Jaar 1/Solidworks/3d Modeleren/Stuklijst onderdelen CAD 2024-2025/Nidec/DC-motoren/404603 slow/Connection.JPG",
-    "Jaar 1/Solidworks/3d Modeleren/Stuklijst onderdelen CAD 2024-2025/Nidec/DC-motoren/404603 slow/Characteristic curve.JPG",
-    "Jaar 1/Solidworks/3d Modeleren/Stuklijst onderdelen CAD 2024-2025/Nidec/DC-motoren/404157 fast/Wiring Diagram.JPG",
-    "Jaar 1/Solidworks/3d Modeleren/Stuklijst onderdelen CAD 2024-2025/Nidec/DC-motoren/404157 fast/Shaft.JPG",
-    "Jaar 1/Solidworks/3d Modeleren/Stuklijst onderdelen CAD 2024-2025/Nidec/DC-motoren/404157 fast/Motor.JPG",
-    "Jaar 1/Solidworks/3d Modeleren/Stuklijst onderdelen CAD 2024-2025/Nidec/DC-motoren/404157 fast/Datasheet.JPG",
-    "Jaar 1/Solidworks/3d Modeleren/Bronnen.md",
-    "Jaar 1/Sensoren en Actuatoren/Week 6.md",
-    "Jaar 1/Sensoren en Actuatoren/Week 6 Practicum.md",
-    "Jaar 1/Sensoren en Actuatoren/Week 5.md",
-    "Jaar 1/Sensoren en Actuatoren/Week 4.md",
-    "Jaar 1/Sensoren en Actuatoren/Week 3.md",
-    "Jaar 1/Sensoren en Actuatoren/Week 2.md",
-    "Jaar 1/Sensoren en Actuatoren/Week 15.md",
-    "Jaar 1/Sensoren en Actuatoren/Week 13.md",
-    "Jaar 1/Sensoren en Actuatoren/Week 12.md",
-    "Jaar 1/Sensoren en Actuatoren/Week 1.md",
-    "Jaar 1/Sensoren en Actuatoren/Samenvatting Voor Tentamen.md",
-    "Jaar 1/Ontwerpen in groepen 2/Portfolio/Vergaderen.md",
-    "Jaar 1/Ontwerpen in groepen 2/Portfolio/Zakelijke-Email.md",
-    "Jaar 1/Ontwerpen in groepen 2/Portfolio/Softskills.md",
-    "Jaar 1/Ontwerpen in groepen/Evaporating cloud.canvas"
-  ]
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": []
 }
