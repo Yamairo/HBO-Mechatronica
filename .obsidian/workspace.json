@@ -4,44 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "d4c9f3937a0c2e7f",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "7b5e2c5225d9704a",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jaar 2/Duurzaam Ontwerpen/Week 1.md",
+                "file": "Jaar 2/Dynamica/Week 2 - Tangentiëel en normaal versnelling.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Week 1"
+              "title": "Week 2 - Tangentiëel en normaal versnelling"
             },
-            "group": "c2b6af99ae23e904"
+            "group": "e59ab4e6998dfba8"
           }
         ]
       },
       {
-        "id": "a3d34ad0e793cfb1",
+        "id": "cb13e056e8433f14",
         "type": "tabs",
         "children": [
           {
-            "id": "1ee88351ad85cceb",
+            "id": "1ea7b84da1e8aa71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jaar 2/Duurzaam Ontwerpen/Week 1.md",
+                "file": "Jaar 2/Dynamica/Week 2 - Tangentiëel en normaal versnelling.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Week 1"
+              "title": "Week 2 - Tangentiëel en normaal versnelling"
             },
-            "group": "c2b6af99ae23e904"
+            "group": "e59ab4e6998dfba8"
           }
         ]
       }
@@ -77,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "unti",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,6 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Jaar 2/Dynamica/Week 2 - Tangentiëel en normaal versnelling.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -196,8 +197,8 @@
             "state": {
               "type": "todo",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "todo"
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           },
           {
@@ -206,8 +207,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -216,8 +217,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -246,12 +247,10 @@
             "id": "94db2794a0bb4753",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Industriële Besturing Programmeren/Toetsen/220616 PNEUM-T1 - Antwoordmodel en puntenverdeling.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "220616 PNEUM-T1 - Antwoordmodel en puntenverdeling"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -280,19 +279,18 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Jaar 2/Duurzaam Ontwerpen/Week 1.md"
+                "file": "Jaar 2/Dynamica/Week 2 - Tangentiëel en normaal versnelling.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -312,10 +310,16 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "7b5e2c5225d9704a",
+  "active": "293a8dcd461d3204",
   "lastOpenFiles": [
-    "Jaar 2/Signalen en datacommunicatie/Week 1.md",
+    "Jaar 2/Dynamica/Huiswerk",
+    "Boeken/2425_ME_WIS1_24_T2_V1_Tentamen_uitwerkingen.pdf",
+    "Jaar 2/Dynamica/Week 2 - Tangentiëel en normaal versnelling.md",
+    "Templates/Formule.md",
+    "Templates/Huiswerk.md",
+    "Jaar 2/Dynamica/Week 1 - Introductie & Kinematica rechtlijnige beweging.md",
     "Jaar 2/Duurzaam Ontwerpen/Week 1.md",
+    "Jaar 2/Signalen en datacommunicatie/Week 1.md",
     "Jaar 2/Vision/Werkcollege PDF/Opdrachten Week 1.pdf",
     "Bijlages/Pasted image 20260901110642.png",
     "Jaar 1/Industriële Besturing Programmeren/Week 14 - Kinematica Toepassen.md",
@@ -336,7 +340,6 @@
     "Jaar 2/Programmeren 2/Werkcollege PDF/wk 7 - opdrachten.pdf",
     "Jaar 2/Programmeren 2/Werkcollege PDF/Unconfirmed 877137.crdownload",
     "Jaar 2/Programmeren 2/Werkcollege PDF/wk 6 - opdrachten.pdf",
-    "Jaar 2/Programmeren 2/Werkcollege PDF/Unconfirmed 618679.crdownload",
     "Jaar 2/Vision/Werkcollege oplossingen/Week 1/KiCad-Logo.svg",
     "Jaar 2/Vision/Bestanden/Bestanden Week1/KiCad-Logo.svg",
     "Jaar 2/Vision/Werkcollege oplossingen/Week 1/Diagram.md",
@@ -349,17 +352,12 @@
     "Jaar 2/Vision/Werkcollege oplossingen/Week 1/Product-levenscyclus.svg",
     "Jaar 2/Vision/Werkcollege oplossingen/Week 1/DSC_7552.png",
     "Jaar 2/Vision/Week 1.md",
-    "Jaar 2/Dynamica/Week 1 - Introductie & Kinematica rechtlijnige beweging.md",
     "Jaar 1/Wiskunde 2/Week 14.md",
     "Jaar 1/Wiskunde 2/Week 3.md",
     "Subonderwerpen/Untitled.md",
     "Jaar 1/Wiskunde 2/Week 3 opdrachten.md",
     "Jaar 1/Wiskunde 2/Week 15.md",
     "Jaar 1/Statica/Les 5 -.md",
-    "Jaar 1/Statica/Les 4.md",
-    "Jaar 1/Statica/Les 2 - Puntmassa's.md",
-    "Jaar 1/Statica/Les 3 - Momenten, koppels.md",
-    "Jaar 1/Statica/Les 1 - Krachten.md",
     "Jaar 1/Ontwerpen in groepen/Evaporating cloud.canvas"
   ]
 }
