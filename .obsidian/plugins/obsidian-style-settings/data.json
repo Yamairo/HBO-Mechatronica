@@ -14,7 +14,7 @@
   "Appearance-light@@card-layout-open-light": true,
   "Appearance-light@@theme-light-style-select": "theme-light-background-adapt",
   "Appearance-dark@@card-layout-open-dark": true,
-  "Editor@@codeblock-style-select": "codeblock-style-dracula",
+  "Editor@@codeblock-style-select": "codeblock-style-solarized-dark",
   "Editor@@disable-alternative-checkboxes": false,
   "Editor@@border-focus-mode": false,
   "Appearance-dark@@theme-dark-style-select": "theme-dark-background-darker",
