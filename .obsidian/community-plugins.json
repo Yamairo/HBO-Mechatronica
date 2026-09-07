@@ -28,5 +28,7 @@
   "obsidian-advanced-new-file",
   "obsidian-advanced-slides",
   "table-extended",
-  "obsidian-discordrpc"
+  "obsidian-discordrpc",
+  "lmath",
+  "plot-vectors-graphs"
 ]
