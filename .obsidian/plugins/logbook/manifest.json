@@ -1,0 +1,10 @@
+{
+	"id": "logbook",
+	"name": "Logbook",
+	"version": "0.3.0",
+	"minAppVersion": "1.5.7",
+	"description": "Track time on tasks with org-mode LOGBOOK-style clock entries, stored as Dataview-queryable inline fields.",
+	"author": "p1tt1",
+	"authorUrl": "https://github.com/p1tt1",
+	"isDesktopOnly": false
+}
