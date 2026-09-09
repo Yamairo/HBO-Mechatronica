@@ -1,0 +1,9 @@
+{
+  "activeClock": null,
+  "settings": {
+    "datetimeFormat": "minutes",
+    "showStatusBar": true,
+    "maxLabelLength": 40,
+    "switchTaskOnClockIn": false
+  }
+}

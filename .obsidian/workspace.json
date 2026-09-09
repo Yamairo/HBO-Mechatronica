@@ -13,35 +13,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jaar 2/Vision/Week 2 - Vectoren en matrices.md",
+                "file": "Logboek.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Week 2 - Vectoren en matrices"
+              "title": "Logboek"
             },
-            "group": "e177466a94418731"
+            "group": "d3d122c4d350419c"
           }
         ]
       },
       {
-        "id": "556f979091912f7f",
+        "id": "66a39f69c16b6ad5",
         "type": "tabs",
         "children": [
           {
-            "id": "6bbd48617949e1fa",
+            "id": "3a73ecf6a3026bb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jaar 2/Vision/Week 2 - Vectoren en matrices.md",
+                "file": "Logboek.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Week 2 - Vectoren en matrices"
+              "title": "Logboek"
             },
-            "group": "e177466a94418731"
+            "group": "d3d122c4d350419c"
           }
         ]
       }
@@ -105,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 290.3000183105469
   },
   "right": {
     "id": "51e37365160c86a0",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jaar 2/Vision/Week 2 - Vectoren en matrices.md",
+                "file": "Logboek.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -239,8 +239,8 @@
             "state": {
               "type": "git-history-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-history-view"
+              "icon": "history",
+              "title": "History"
             }
           },
           {
@@ -279,14 +279,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Jaar 2/Project/Kick-off.md"
+                "file": "Logboek.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -311,12 +311,31 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "6bbd48617949e1fa",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Jaar 2/Vision/Week 3 - Histogrammen.md",
+    "Jaar 2/Signalen en datacommunicatie/Week 2 - Versterking.md",
+    "Jaar 2/Project/2026 Projectboek Pick & Place v1.0.pdf",
+    "Jaar 2/Project/Unconfirmed 85506.crdownload",
+    "Jaar 2/Signalen en datacommunicatie/Week 1.md",
+    "Bijlages/Pasted image 20260908141528.png",
+    "Bijlages/Pasted image 20260908141456.png",
+    "Bijlages/Pasted image 20260908140316.png",
+    "Bijlages/Pasted image 20260908140128.png",
+    "Bijlages/Pasted image 20260908135818.png",
+    "Bijlages/Pasted image 20260908135713.png",
+    "Bijlages/Pasted image 20260908134923.png",
+    "Boeken/2425_ME_WIS1_24_T2_V1_Tentamen_uitwerkingen.pdf",
+    "Jaar 2/Duurzaam Ontwerpen/Week 2.md",
+    "Jaar 2/Duurzaam Ontwerpen/Week 1.md",
+    "Homepage.md",
     "Jaar 2/Vision/Week 2 - Vectoren en matrices.md",
     "Jaar 2/Vision/Week 1 - Digitale Beelden.md",
-    "Homepage.md",
+    "Templates/logboek.md",
+    "Logboek.md",
+    "Logboek Tabel.md",
+    "Jaar 2/Vision/Werkcollege oplossingen/Week 2.md",
+    "Excalidraw/Vectoren 1.1 a.md",
+    "Jaar 2/Vision/Week 3 - Histogrammen.md",
     "Untitled",
     "Jaar 2/Dynamica/Week 2.md",
     "Subonderwerpen/Untitled.md",
@@ -329,36 +348,16 @@
     "Jaar 2/Project/Kick-off.md",
     "Jaar 2/Project/Kick-off.html",
     "Jaar 2/Dynamica/Huiswerk",
-    "Boeken/2425_ME_WIS1_24_T2_V1_Tentamen_uitwerkingen.pdf",
     "Templates/Formule.md",
     "Templates/Huiswerk.md",
     "Jaar 2/Dynamica/Week 1a - Introductie & Kinematica rechtlijnige beweging.md",
-    "Jaar 2/Duurzaam Ontwerpen/Week 1.md",
-    "Jaar 2/Signalen en datacommunicatie/Week 1.md",
     "Jaar 2/Vision/Werkcollege PDF/Opdrachten Week 1.pdf",
     "Bijlages/Pasted image 20260901110642.png",
     "Jaar 1/Industriële Besturing Programmeren/Week 14 - Kinematica Toepassen.md",
     "Jaar 2/Signalen en datacommunicatie",
-    "Jaar 1/Industriële Besturing Programmeren/Week 10.md",
-    "Jaar 1/Industriële Besturing Programmeren/Week 8.md",
-    "Jaar 1/Industriële Besturing Programmeren/Week 7.md",
-    "Jaar 1/Industriële Besturing Programmeren/Week 3 - Rising Falling Edge, Begin Geheugens.md",
-    "Jaar 1/Industriële Besturing Programmeren/Week 2 - Besturingscommando's, Stappenplan, Ventielen en Logische Basisfuncties.md",
-    "Jaar 1/Industriële Besturing Programmeren/Week 1 - Introductie Pneumatiek, Hydrauliek en WST.md",
-    "Jaar 1/Ontwerpen in groepen 2/Week 11.md",
-    "Jaar 1/Ontwerpen in groepen 2/Week 6.md",
     "Jaar 2/Programmeren 2/Werkcollege Code/Week 1.py",
     "Jaar 2/Python/Python.code-workspace",
-    "Jaar 2/Programmeren 2/Werkcollege Code",
-    "Jaar 2/Programmeren 2/New folder",
     "Jaar 2/Vision/Werkcollege oplossingen/Week 1/KiCad-Logo.svg",
-    "Jaar 2/Vision/Bestanden/Bestanden Week1/KiCad-Logo.svg",
-    "Jaar 2/Vision/Werkcollege oplossingen/Week 1/Diagram.svg",
-    "Jaar 2/Vision/Werkcollege oplossingen/Week 1/Haagse_Hogeschool_logo_vector_maar_beter.svg",
-    "Jaar 2/Vision/Werkcollege oplossingen/Week 1/Haagse_Hogeschool_logo_vector.svg",
-    "Jaar 2/Vision/Bestanden/Bestanden Week1/Haagse_Hogeschool_logo_vector.png",
-    "Jaar 2/Vision/Bestanden/Bestanden Week1/Haagse_Hogeschool_logo_vector.svg",
-    "Jaar 2/Vision/Werkcollege oplossingen/Week 1/Product-levenscyclus.svg",
     "Jaar 1/Ontwerpen in groepen/Evaporating cloud.canvas"
   ]
 }

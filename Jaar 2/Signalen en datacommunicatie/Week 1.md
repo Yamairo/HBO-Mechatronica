@@ -1,6 +1,6 @@
 ---
 created: 2026-09-01T10:30
-updated: 2026-09-01T11:29
+updated: 2026-09-08T13:02
 ---
 # Inhoud
 
@@ -9,7 +9,7 @@ updated: 2026-09-01T11:29
 
 ## Wat is datacommunicatie
 
-Het digitaal overdragen van gegevens
+Het digitaal overdragen van gegevens. Tussen twee of meer partijen.
 
 ### Discreet (digitaal)
 

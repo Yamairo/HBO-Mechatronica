@@ -1,0 +1,80 @@
+/* Status bar item — idle */
+.logbook-status {
+	display: inline-flex;
+	align-items: center;
+	gap: 4px;
+}
+
+/* Status bar item — active (clocked in) */
+.logbook-status.logbook-active {
+	color: var(--text-accent);
+	font-weight: 500;
+}
+
+/* Phase 2 — Scanner modal (REL-01) */
+.logbook-scanner-list {
+	display: flex;
+	flex-direction: column;
+	gap: 4px;
+	margin-top: 8px;
+}
+.logbook-scanner-row {
+	padding: 4px 8px;
+}
+.logbook-scanner-row:hover {
+	background-color: var(--background-secondary);
+}
+.logbook-scanner-link {
+	color: var(--text-accent);
+	cursor: pointer;
+	text-decoration: underline;
+}
+
+/* Phase 3 — Status bar click (DISPLAY-06) */
+.logbook-status.logbook-active {
+    cursor: pointer;
+}
+
+/* Phase 3 — Status bar hide (SETTINGS-02 / D-04) */
+.logbook-hidden {
+    display: none;
+}
+
+/* Quick 260709-d0z — live "Maximum label length" slider readout (SETTINGS-03 / D-09).
+   REMOVABLE LATER: 1.5.7-floor workaround; delete with the settingsTab readout
+   once minAppVersion is raised to the native-inline-slider-value build (1.13.0). */
+.logbook-slider-value {
+    margin-left: var(--size-4-2);
+    color: var(--text-muted);
+}
+
+/* Phase 3 — Report modal (REPORT-01) */
+.logbook-report-list {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    margin-top: 8px;
+}
+.logbook-report-group {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+.logbook-report-row {
+    font-family: var(--font-monospace);
+    color: var(--text-normal);
+}
+.logbook-report-row .logbook-report-duration {
+    color: var(--text-muted);
+}
+.logbook-report-subtotal {
+    color: var(--text-accent);
+    text-align: right;
+    margin-top: 4px;
+}
+.logbook-report-total {
+    color: var(--text-accent);
+    font-weight: 600;
+    margin-top: 16px;
+    text-align: right;
+}
