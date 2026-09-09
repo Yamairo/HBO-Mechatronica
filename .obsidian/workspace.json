@@ -13,35 +13,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logboek.md",
+                "file": "Jaar 2/Dynamica/Oefenopgaven/Week 1.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Logboek"
+              "title": "Week 1"
             },
-            "group": "d3d122c4d350419c"
+            "group": "66089f2df0d90fde"
           }
         ]
       },
       {
-        "id": "66a39f69c16b6ad5",
+        "id": "44033e8afb92c090",
         "type": "tabs",
         "children": [
           {
-            "id": "3a73ecf6a3026bb6",
+            "id": "f42e23f4316d35ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logboek.md",
+                "file": "Jaar 2/Dynamica/Oefenopgaven/Week 1.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Logboek"
+              "title": "Week 1"
             },
-            "group": "d3d122c4d350419c"
+            "group": "66089f2df0d90fde"
           }
         ]
       }
@@ -311,8 +311,12 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "f42e23f4316d35ae",
   "lastOpenFiles": [
+    "Homepage.md",
+    "Jaar 2/Dynamica/Oefenopgaven/Week 1.md",
+    "Jaar 2/Dynamica/Oefenopgaven",
+    "Logboek.md",
     "Jaar 2/Signalen en datacommunicatie/Week 2 - Versterking.md",
     "Jaar 2/Project/2026 Projectboek Pick & Place v1.0.pdf",
     "Jaar 2/Project/Unconfirmed 85506.crdownload",
@@ -327,11 +331,9 @@
     "Boeken/2425_ME_WIS1_24_T2_V1_Tentamen_uitwerkingen.pdf",
     "Jaar 2/Duurzaam Ontwerpen/Week 2.md",
     "Jaar 2/Duurzaam Ontwerpen/Week 1.md",
-    "Homepage.md",
     "Jaar 2/Vision/Week 2 - Vectoren en matrices.md",
     "Jaar 2/Vision/Week 1 - Digitale Beelden.md",
     "Templates/logboek.md",
-    "Logboek.md",
     "Logboek Tabel.md",
     "Jaar 2/Vision/Werkcollege oplossingen/Week 2.md",
     "Excalidraw/Vectoren 1.1 a.md",
@@ -356,7 +358,6 @@
     "Jaar 1/Industriële Besturing Programmeren/Week 14 - Kinematica Toepassen.md",
     "Jaar 2/Signalen en datacommunicatie",
     "Jaar 2/Programmeren 2/Werkcollege Code/Week 1.py",
-    "Jaar 2/Python/Python.code-workspace",
     "Jaar 2/Vision/Werkcollege oplossingen/Week 1/KiCad-Logo.svg",
     "Jaar 1/Ontwerpen in groepen/Evaporating cloud.canvas"
   ]
