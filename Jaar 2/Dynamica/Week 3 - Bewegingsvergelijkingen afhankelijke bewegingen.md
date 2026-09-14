@@ -1,6 +1,6 @@
 ---
 created: 2026-09-14T12:56
-updated: 2026-09-14T14:10
+updated: 2026-09-14T14:27
 ---
 # Inhoud
 
@@ -84,3 +84,24 @@ a_{B} &\approx 8.54 \pu{ m / s}^2 \\
 a_{A} &\approx -2.85 \pu{ m / s}^2 
 \end{aligned} $$
 
+### Oefening 3
+
+$m = 10 \pu{ kg }$
+$v = 5 \pu{ m / s }$
+
+$\sum{F_{y}} = 0$
+$\sum{F_{y}} = F_{N} - mg$
+
+$F_{N} = 10 \cdot 9.81 = 98.1$
+
+$\sum{F_{x}} = m \cdot \ddot{x}$
+$-98.1 \cdot 0.15 = 10 \cdot \ddot{x}$
+$\ddot{x} = -1.47 \pu{ m / s }^2$
+
+$\dot{x} = 5 - 1.47t$
+$\dot{x} = 0$
+$5 - 1.47t = 0$
+$t = \frac{5}{1.47} \approx 3.45$
+
+$x = 5t - \frac{1.47}{2}t_{2}$
+$x = 5 \cdot 3.45 - \frac{1.46}{2} \cdot 3.45^{2} \approx 8.5 \pu{ m }$
