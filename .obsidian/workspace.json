@@ -4,44 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "1bcf86f575b4851c",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "113b85cf18cdd106",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Jaar 2/Dynamica/Oefenopgaven/Week 1.md",
-                "mode": "source",
-                "source": true
+                "file": "Excalidraw/Oefening 2 week 3 dynamica.md"
               },
-              "icon": "lucide-file",
-              "title": "Week 1"
-            },
-            "group": "66089f2df0d90fde"
+              "icon": "excalidraw-icon",
+              "title": "Oefening 2 week 3 dynamica"
+            }
+          },
+          {
+            "id": "75bf48c1b69fd9c7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Oefening 1 week 3 dynamica.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Oefening 1 week 3 dynamica"
+            }
           }
         ]
       },
       {
-        "id": "44033e8afb92c090",
+        "id": "1d989a46eddd8664",
         "type": "tabs",
         "children": [
           {
-            "id": "f42e23f4316d35ae",
+            "id": "e5c2c1c1a69e8128",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jaar 2/Dynamica/Oefenopgaven/Week 1.md",
+                "file": "Jaar 2/Dynamica/Week 3 - Bewegingsvergelijkingen afhankelijke bewegingen.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Week 1"
-            },
-            "group": "66089f2df0d90fde"
+              "title": "Week 3 - Bewegingsvergelijkingen afhankelijke bewegingen"
+            }
           }
         ]
       }
@@ -105,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.3000183105469
+    "width": 290.3000183105469,
+    "collapsed": true
   },
   "right": {
     "id": "51e37365160c86a0",
@@ -286,12 +295,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -311,8 +319,18 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "f42e23f4316d35ae",
+  "active": "113b85cf18cdd106",
   "lastOpenFiles": [
+    "Jaar 2/Dynamica/Week 3 - Bewegingsvergelijkingen afhankelijke bewegingen.md",
+    "Excalidraw/Oefening 2 week 3 dynamica.md",
+    "Excalidraw/Oefening 1 week 3 dynamica.md",
+    "Jaar 2/Dynamica/Week 2.md",
+    "Jaar 2/Vision/Week 3 - Histogrammen.md",
+    "Bijlages/Pasted image 20260914114932.png",
+    "Bijlages/Pasted image 20260914113808.png",
+    "Jaar 2/Vision/Week 1 - Digitale Beelden.md",
+    "Jaar 2/Project/Taakverdeling.md",
+    "Jaar 2/Project/Workshop 1.md",
     "Homepage.md",
     "Jaar 2/Dynamica/Oefenopgaven/Week 1.md",
     "Jaar 2/Dynamica/Oefenopgaven",
@@ -332,14 +350,11 @@
     "Jaar 2/Duurzaam Ontwerpen/Week 2.md",
     "Jaar 2/Duurzaam Ontwerpen/Week 1.md",
     "Jaar 2/Vision/Week 2 - Vectoren en matrices.md",
-    "Jaar 2/Vision/Week 1 - Digitale Beelden.md",
     "Templates/logboek.md",
     "Logboek Tabel.md",
     "Jaar 2/Vision/Werkcollege oplossingen/Week 2.md",
     "Excalidraw/Vectoren 1.1 a.md",
-    "Jaar 2/Vision/Week 3 - Histogrammen.md",
     "Untitled",
-    "Jaar 2/Dynamica/Week 2.md",
     "Subonderwerpen/Untitled.md",
     "Excalidraw/Drawing 2026-08-31 16.04.02.excalidraw.md",
     "Jaar 2/Dynamica/Week 1b - Tangentiëel en normaal versnelling.md",
@@ -347,18 +362,11 @@
     "Jaar 2/Vision/Week 5 - Stelsels, inverse en determinant.md",
     "Jaar 2/Untitled.md",
     "Jaar 2/Vision/Bestanden/Bestanden Week1/DSC_7552.png",
-    "Jaar 2/Project/Kick-off.md",
     "Jaar 2/Project/Kick-off.html",
     "Jaar 2/Dynamica/Huiswerk",
-    "Templates/Formule.md",
-    "Templates/Huiswerk.md",
-    "Jaar 2/Dynamica/Week 1a - Introductie & Kinematica rechtlijnige beweging.md",
     "Jaar 2/Vision/Werkcollege PDF/Opdrachten Week 1.pdf",
-    "Bijlages/Pasted image 20260901110642.png",
-    "Jaar 1/Industriële Besturing Programmeren/Week 14 - Kinematica Toepassen.md",
     "Jaar 2/Signalen en datacommunicatie",
     "Jaar 2/Programmeren 2/Werkcollege Code/Week 1.py",
-    "Jaar 2/Vision/Werkcollege oplossingen/Week 1/KiCad-Logo.svg",
     "Jaar 1/Ontwerpen in groepen/Evaporating cloud.canvas"
   ]
 }
