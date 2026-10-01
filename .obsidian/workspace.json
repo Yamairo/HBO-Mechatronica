@@ -4,44 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1bcf86f575b4851c",
+        "id": "1a52ac22ba355d51",
         "type": "tabs",
         "children": [
           {
-            "id": "113b85cf18cdd106",
+            "id": "ae0a0c0d7a5edaef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jaar 2/Signalen en datacommunicatie/Week 2 - Versterking intro.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Week 2 - Versterking intro"
-            },
-            "group": "7f7e0471516454f4"
-          }
-        ]
-      },
-      {
-        "id": "de5a732894c4c2f1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1431a0b49a0474f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jaar 2/Signalen en datacommunicatie/Week 2 - Versterking intro.md",
+                "file": "Jaar 2/Signalen en datacommunicatie/Week 5 - Bemonstering en Codering.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Week 2 - Versterking intro"
-            },
-            "group": "7f7e0471516454f4"
+              "title": "Week 5 - Bemonstering en Codering"
+            }
           }
         ]
       }
@@ -105,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.3000183105469
+    "width": 290.3000183105469,
+    "collapsed": true
   },
   "right": {
     "id": "51e37365160c86a0",
@@ -168,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jaar 2/Signalen en datacommunicatie/Week 2 - Versterking intro.md",
+                "file": "Jaar 2/Signalen en datacommunicatie/Week 5 - Bemonstering en Codering.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -222,18 +201,6 @@
             }
           },
           {
-            "id": "f981fb4f90552248",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Boeken/2425_ME_WIS1_24_T2_V1_Tentamen_uitwerkingen.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "2425_ME_WIS1_24_T2_V1_Tentamen_uitwerkingen"
-            }
-          },
-          {
             "id": "8a81983d7c3dfe01",
             "type": "leaf",
             "state": {
@@ -264,25 +231,25 @@
             }
           },
           {
-            "id": "98fcd46f137d6b42",
+            "id": "dbf3612889cb99bd",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Jaar 2/Signalen en datacommunicatie/Week 5 - Bemonstering en Codering.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
+          },
+          {
+            "id": "a8298cd3cc0e998b",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
               "state": {},
               "icon": "trident-custom",
               "title": "Mermaid Toolbar"
-            }
-          },
-          {
-            "id": "dbf3612889cb99bd",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "Logboek.md"
-              },
-              "icon": "lucide-info",
-              "title": "File properties"
             }
           }
         ],
@@ -310,54 +277,54 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "113b85cf18cdd106",
+  "active": "ae0a0c0d7a5edaef",
   "lastOpenFiles": [
+    "Jaar 2/Dynamica/Week 3 - Bewegingsvergelijkingen afhankelijke bewegingen.md",
+    "Jaar 2/Signalen en datacommunicatie/Week 5 - Bemonstering en Codering.md",
+    "Jaar 2/Dynamica/Week 2.md",
+    "Jaar 2/Dynamica/Week 5 -.md",
+    "Boeken/2425_ME_WIS1_24_T2_V1_Tentamen_uitwerkingen.pdf",
+    "Bijlages/Pasted image 20260928130623.png",
+    "Jaar 2/Dynamica/Week 4 - Massa-Veer-Demper Systeem.md",
+    "Jaar 2/Vision/Week 5 - Stelsels, inverse en determinant.md",
+    "Jaar 2/Vision/Dias/Week 5 - Inverse, stelsels en determinant - Copy.pdf",
+    "Jaar 2/Vision/Dias/Unconfirmed 248025.crdownload",
+    "Jaar 2/Vision/Dias",
+    "Jaar 2/Vision/New folder",
+    "Homepage.md",
+    "Jaar 2/Project/Workshop 2 - Kinematica in een PLC.md",
+    "Boeken/Projectboek PRO2_Deel-2-V250509.pdf",
+    "Jaar 2/Project/Workshop 3 - HMI (Mens Machine Interface).md",
+    "Jaar 2/Signalen en datacommunicatie/Week 4 - Fitering en modulatie.md",
+    "Bijlages/Pasted image 20260922135449.png",
+    "Bijlages/Pasted image 20260922135345.png",
+    "Bijlages/Pasted image 20260922135252.png",
+    "Bijlages/Pasted image 20260922134428.png",
+    "Bijlages/Pasted image 20260922134405.png",
+    "Bijlages/Pasted image 20260922134319.png",
+    "Jaar 2/Signalen en datacommunicatie/Week 3 - Versterking  en filtering.md",
+    "Jaar 2/Signalen en datacommunicatie/Week 2 - Versterking intro.md",
+    "Logboek.md",
+    "Jaar 2/Dynamica/Week 6/7.md",
     "Jaar 2/Vision/Week 4 - Puntoperaties.md",
+    "Jaar 2/Dynamica/Week 6",
     "Jaar 2/Vision/Week 3 - Histogrammen.md",
     "Excalidraw/Oefening 1 week 3 dynamica.md",
-    "Jaar 2/Project/Workshop 2 - Kinematica in een PLC.md",
-    "Jaar 2/Signalen en datacommunicatie/Week 3 - Versterking  en filtering.md",
     "Bijlages/Pasted image 20260915140042.png",
     "Bijlages/Pasted image 20260915135428.png",
     "Bijlages/Pasted image 20260915134124.png",
-    "Bijlages/Pasted image 20260915132021.png",
-    "Jaar 2/Signalen en datacommunicatie/Week 2 - Versterking intro.md",
-    "Jaar 2/Dynamica/Week 2.md",
-    "Jaar 2/Dynamica/Week 3 - Bewegingsvergelijkingen afhankelijke bewegingen.md",
     "Excalidraw/Oefening 2 week 3 dynamica.md",
-    "Bijlages/Pasted image 20260914114932.png",
-    "Bijlages/Pasted image 20260914113808.png",
     "Jaar 2/Vision/Week 1 - Digitale Beelden.md",
     "Jaar 2/Project/Taakverdeling.md",
     "Jaar 2/Project/Workshop 1.md",
-    "Homepage.md",
     "Jaar 2/Dynamica/Oefenopgaven/Week 1.md",
     "Jaar 2/Dynamica/Oefenopgaven",
-    "Logboek.md",
     "Jaar 2/Project/2026 Projectboek Pick & Place v1.0.pdf",
     "Jaar 2/Project/Unconfirmed 85506.crdownload",
     "Jaar 2/Signalen en datacommunicatie/Week 1.md",
-    "Bijlages/Pasted image 20260908141528.png",
-    "Bijlages/Pasted image 20260908141456.png",
-    "Bijlages/Pasted image 20260908140316.png",
-    "Bijlages/Pasted image 20260908140128.png",
-    "Boeken/2425_ME_WIS1_24_T2_V1_Tentamen_uitwerkingen.pdf",
     "Jaar 2/Duurzaam Ontwerpen/Week 2.md",
     "Jaar 2/Duurzaam Ontwerpen/Week 1.md",
     "Jaar 2/Vision/Week 2 - Vectoren en matrices.md",
-    "Templates/logboek.md",
-    "Logboek Tabel.md",
-    "Jaar 2/Vision/Werkcollege oplossingen/Week 2.md",
-    "Excalidraw/Vectoren 1.1 a.md",
-    "Untitled",
-    "Subonderwerpen/Untitled.md",
-    "Excalidraw/Drawing 2026-08-31 16.04.02.excalidraw.md",
-    "Jaar 2/Dynamica/Week 1b - Tangentiëel en normaal versnelling.md",
-    "Jaar 2/Project/Kick-off.html",
-    "Jaar 2/Dynamica/Huiswerk",
-    "Jaar 2/Vision/Werkcollege PDF/Opdrachten Week 1.pdf",
-    "Jaar 2/Signalen en datacommunicatie",
-    "Jaar 2/Programmeren 2/Werkcollege Code/Week 1.py",
     "Jaar 1/Ontwerpen in groepen/Evaporating cloud.canvas"
   ]
 }
