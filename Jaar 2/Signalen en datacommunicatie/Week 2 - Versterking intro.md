@@ -1,6 +1,10 @@
 ---
 created: 2026-09-08T12:59
+<<<<<<< HEAD:Jaar 2/Signalen en datacommunicatie/Week 2 - Versterking.md
 updated: 2026-09-15T22:46
+=======
+updated: 2026-09-15T13:11
+>>>>>>> 9dab35decdf8b5117cd2d9c5dba49050bbdfb43e:Jaar 2/Signalen en datacommunicatie/Week 2 - Versterking intro.md
 ---
 # Inhoud
 

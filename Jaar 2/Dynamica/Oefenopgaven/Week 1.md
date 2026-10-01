@@ -1,6 +1,10 @@
 ---
 created: 2026-09-09T21:48
+<<<<<<< HEAD
 updated: 2026-09-10T12:17
+=======
+updated: 2026-09-11T10:33
+>>>>>>> 9dab35decdf8b5117cd2d9c5dba49050bbdfb43e
 ---
 # Opgaven
 
