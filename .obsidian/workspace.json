@@ -13,35 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jaar 2/Dynamica/Oefenopgaven/Week 1.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Week 1"
-            },
-            "group": "66089f2df0d90fde"
-          }
-        ]
-      },
-      {
-        "id": "44033e8afb92c090",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f42e23f4316d35ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jaar 2/Dynamica/Oefenopgaven/Week 1.md",
+                "file": "Homepage.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Week 1"
-            },
-            "group": "66089f2df0d90fde"
+              "title": "Homepage"
+            }
           }
         ]
       }
@@ -64,7 +42,7 @@
               "state": {
                 "sortOrder": "alphabetical",
                 "autoReveal": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
@@ -307,17 +285,28 @@
       "mermaid-tools:Open Mermaid Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "homepage:Open homepage": false,
-      "card-board:CardBoard": false
+      "homepage:Open homepage": false
     }
   },
-  "active": "f42e23f4316d35ae",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Jaar 1/PDF/Testplan.pdf",
+    "Jaar 1/PDF/Project Risicoanalyse.pdf",
+    "Jaar 1/PDF/Onderzoek Mechanisch Faalmechanisme Duwmodule.pdf",
+    "Jaar 2/Dynamica/Week 1b - Tangentiëel en normaal versnelling.md",
+    "Jaar 2/Dynamica/Week 2.md",
+    "Jaar 2/Dynamica/Week 1a - Introductie & Kinematica rechtlijnige beweging.md",
     "Homepage.md",
+    "Jaar 2/Vision/Week 4 - Puntoperaties.md",
+    "Jaar 2/Vision/Week 3 - Histogrammen.md",
+    "Jaar 2/Vision/Week 5 - Stelsels, inverse en determinant.md",
+    "Jaar 2/Signalen en datacommunicatie/Week 2 - Versterking.md",
+    "Jaar 2/Vision/Week 2 - Vectoren en matrices.md",
+    "Jaar 2/Vision/Week 1 - Digitale Beelden.md",
+    "Templates/Formule.md",
     "Jaar 2/Dynamica/Oefenopgaven/Week 1.md",
     "Jaar 2/Dynamica/Oefenopgaven",
     "Logboek.md",
-    "Jaar 2/Signalen en datacommunicatie/Week 2 - Versterking.md",
     "Jaar 2/Project/2026 Projectboek Pick & Place v1.0.pdf",
     "Jaar 2/Project/Unconfirmed 85506.crdownload",
     "Jaar 2/Signalen en datacommunicatie/Week 1.md",
@@ -331,33 +320,21 @@
     "Boeken/2425_ME_WIS1_24_T2_V1_Tentamen_uitwerkingen.pdf",
     "Jaar 2/Duurzaam Ontwerpen/Week 2.md",
     "Jaar 2/Duurzaam Ontwerpen/Week 1.md",
-    "Jaar 2/Vision/Week 2 - Vectoren en matrices.md",
-    "Jaar 2/Vision/Week 1 - Digitale Beelden.md",
     "Templates/logboek.md",
     "Logboek Tabel.md",
     "Jaar 2/Vision/Werkcollege oplossingen/Week 2.md",
     "Excalidraw/Vectoren 1.1 a.md",
-    "Jaar 2/Vision/Week 3 - Histogrammen.md",
     "Untitled",
-    "Jaar 2/Dynamica/Week 2.md",
     "Subonderwerpen/Untitled.md",
     "Excalidraw/Drawing 2026-08-31 16.04.02.excalidraw.md",
-    "Jaar 2/Dynamica/Week 1b - Tangentiëel en normaal versnelling.md",
-    "Jaar 2/Vision/Week 4 - Puntoperaties.md",
-    "Jaar 2/Vision/Week 5 - Stelsels, inverse en determinant.md",
     "Jaar 2/Untitled.md",
     "Jaar 2/Vision/Bestanden/Bestanden Week1/DSC_7552.png",
     "Jaar 2/Project/Kick-off.md",
     "Jaar 2/Project/Kick-off.html",
     "Jaar 2/Dynamica/Huiswerk",
-    "Templates/Formule.md",
     "Templates/Huiswerk.md",
-    "Jaar 2/Dynamica/Week 1a - Introductie & Kinematica rechtlijnige beweging.md",
     "Jaar 2/Vision/Werkcollege PDF/Opdrachten Week 1.pdf",
     "Bijlages/Pasted image 20260901110642.png",
-    "Jaar 1/Industriële Besturing Programmeren/Week 14 - Kinematica Toepassen.md",
-    "Jaar 2/Signalen en datacommunicatie",
-    "Jaar 2/Programmeren 2/Werkcollege Code/Week 1.py",
     "Jaar 2/Vision/Werkcollege oplossingen/Week 1/KiCad-Logo.svg",
     "Jaar 1/Ontwerpen in groepen/Evaporating cloud.canvas"
   ]
