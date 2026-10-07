@@ -1,6 +1,6 @@
 ---
 created: 2026-09-07T10:32
-updated: 2026-09-15T22:46
+updated: 2026-10-04T19:44
 ---
 # Inhoud
 
@@ -95,7 +95,7 @@ Als $B=\lambda \cdot A$ dan geldt $b_{ij} = \lambda a_{ij}$
 
 ### Product van matrix en vector
 
-$M \cdot \vec{v} = \begin{pmatrix} m_11 & m_12 \\ m_21 & m_22\end{pmatrix} \begin{pmatrix}v_{1}\\v_{2}\end{pmatrix} = \begin{pmatrix} m_{11}\cdot v_{1} & m_{12}\cdot v_2 \\ m_{21}\ cdot v_{1} & m_{22} \cdot v_{2}\end{pmatrix}$
+$M \cdot \vec{v} = \begin{pmatrix} m_{11} & m_{12} \\ m_{21} & m_{22}\end{pmatrix} \begin{pmatrix}v_{1}\\v_{2}\end{pmatrix} = \begin{pmatrix} m_{11}\cdot v_{1} & m_{12}\cdot v_2 \\ m_{21} \cdot v_{1} & m_{22} \cdot v_{2}\end{pmatrix}$
 
 
 ### Matrixvermenigvuldigingen

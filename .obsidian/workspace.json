@@ -11,14 +11,12 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Homepage.md",
-                "mode": "preview",
-                "source": true
+                "file": "Jaar 2/Project/2026 Projectboek Pick & Place v1.0.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Homepage"
+              "icon": "lucide-file-text",
+              "title": "2026 Projectboek Pick & Place v1.0"
             }
           }
         ]
@@ -291,16 +289,26 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Homepage.md",
+    "Jaar 2/Vision/Week 2 - Vectoren en matrices.md",
+    "Jaar 2/Vision/Week 1 - Digitale Beelden.md",
+    "Jaar 2/Vision/Week 5 - Stelsels, inverse en determinant.md",
+    "Jaar 2/Vision/Week 4 - Puntoperaties.md",
+    "Jaar 2/Vision/Week 3 - Histogrammen.md",
+    "Jaar 2/Programmeren 2/Week 1.md",
+    "Jaar 2/Project/Workshop 2 - Kinematica in een PLC.md",
+    "Jaar 2/Signalen en datacommunicatie/Week 1 - Wat is Datacommunicatie.md",
+    "Jaar 2/Signalen en datacommunicatie/Week 4 - Fitering en modulatie.md",
+    "Jaar 2/Signalen en datacommunicatie/Week 5 - Bemonstering en Codering.md",
+    "Jaar 2/Project/Taakverdeling.md",
+    "Jaar 2/Project/Workshop 1.md",
+    "Jaar 2/Project/Workshop 3 - HMI (Mens Machine Interface).md",
+    "Jaar 2/Project/Kick-off.md",
+    "Jaar 2/Project/2026 Projectboek Pick & Place v1.0.pdf",
     "Jaar 2/Vision/Dias/Week 5 - Inverse, stelsels en determinant - Copy.pdf",
     "Jaar 2/Vision/Dias",
-    "Jaar 2/Signalen en datacommunicatie/Week 5 - Bemonstering en Codering.md",
-    "Jaar 2/Signalen en datacommunicatie/Week 4 - Fitering en modulatie.md",
     "Jaar 2/Signalen en datacommunicatie/Week 3 - Versterking  en filtering.md",
     "Jaar 2/Signalen en datacommunicatie/Week 2 - Versterking intro.md",
-    "Jaar 2/Project/Workshop 3 - HMI (Mens Machine Interface).md",
-    "Jaar 2/Project/Workshop 2 - Kinematica in een PLC.md",
-    "Jaar 2/Project/Workshop 1.md",
-    "Jaar 2/Project/Taakverdeling.md",
     "Jaar 2/Dynamica/Week 5 -.md",
     "Jaar 2/Dynamica/Week 4 - Massa-Veer-Demper Systeem.md",
     "Jaar 2/Dynamica/Week 3 - Bewegingsvergelijkingen afhankelijke bewegingen.md",
@@ -322,21 +330,11 @@
     "Jaar 2/Dynamica/Week 1b - Tangentiëel en normaal versnelling.md",
     "Jaar 2/Dynamica/Week 2.md",
     "Jaar 2/Dynamica/Week 1a - Introductie & Kinematica rechtlijnige beweging.md",
-    "Homepage.md",
-    "Jaar 2/Vision/Week 4 - Puntoperaties.md",
-    "Jaar 2/Vision/Week 3 - Histogrammen.md",
-    "Jaar 2/Vision/Week 5 - Stelsels, inverse en determinant.md",
     "Jaar 2/Signalen en datacommunicatie/Week 2 - Versterking.md",
-    "Jaar 2/Vision/Week 2 - Vectoren en matrices.md",
-    "Jaar 2/Vision/Week 1 - Digitale Beelden.md",
-    "Templates/Formule.md",
-    "Jaar 2/Dynamica/Oefenopgaven/Week 1.md",
     "Jaar 2/Dynamica/Oefenopgaven",
-    "Jaar 2/Project/2026 Projectboek Pick & Place v1.0.pdf",
     "Jaar 2/Project/Unconfirmed 85506.crdownload",
     "Boeken/2425_ME_WIS1_24_T2_V1_Tentamen_uitwerkingen.pdf",
     "Untitled",
-    "Jaar 2/Project/Kick-off.html",
     "Jaar 1/Ontwerpen in groepen/Evaporating cloud.canvas"
   ]
 }
