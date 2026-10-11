@@ -1,6 +1,10 @@
 ---
 created: 2026-09-09T21:48
+<<<<<<< HEAD
+updated: 2026-09-10T12:17
+=======
 updated: 2026-09-11T10:33
+>>>>>>> 9dab35decdf8b5117cd2d9c5dba49050bbdfb43e
 ---
 # Opgaven
 
@@ -87,3 +91,5 @@ $s_{2} = (2\cdot{2}^{2} - 8 \cdot 2 + 6) = -2\\$
 $s_{3} = (2\cdot{3}^{2} - 8 \cdot 3 + 6) = 0\\$
 
 $s_{tot} = (6--2) + (0--2) = 8 + 2 = 10 \pu{ m }$
+
+$\begin{cases}v = 0 \\  v = 4t - 8\end{cases} \$
