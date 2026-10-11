@@ -1,6 +1,6 @@
 ---
 created: 2026-09-07T10:37
-updated: 2026-09-28T11:41
+updated: 2026-10-02T10:13
 ---
 # Inhoud
 
@@ -122,7 +122,7 @@ z\\
 \begin{pmatrix}
 6 \\
 3 \\
-2 \\
+2 \\ \\
 \end{pmatrix}
 $$
 

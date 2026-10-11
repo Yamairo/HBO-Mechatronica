@@ -1,6 +1,6 @@
 ---
 created: 2026-09-29T13:02
-updated: 2026-09-29T14:10
+updated: 2026-10-06T13:06
 ---
 # Inhoud
 
@@ -8,6 +8,8 @@ updated: 2026-09-29T14:10
 ```
 
 ## Bemonstering
+
+^bd8075
 
 
 > [!quote] Bemonstering of Kwantisering
