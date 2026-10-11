@@ -16,7 +16,7 @@
               "state": {
                 "file": "Jaar 2/Signalen en datacommunicatie/Oefentoetsen/Voorbeeldtoets T1 - Toetsvragen.pdf",
                 "page": 5,
-                "left": -23,
+                "left": -4,
                 "top": 360,
                 "zoom": 1.0167559362419694
               },
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logboek.md",
+                "file": "Jaar 2/Signalen en datacommunicatie/Week 5 - Bemonstering en Codering.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -288,12 +288,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -318,8 +317,23 @@
       "pdf-notes:PDF.notes (New blank file)": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "8a81983d7c3dfe01",
   "lastOpenFiles": [
+    "Jaar 2/Signalen en datacommunicatie/Week 6 - Toetsing.md",
+    "Jaar 2/Signalen en datacommunicatie/ Werkcollege/Practicumhandleiding sessie 1+2 2.0.pdf",
+    "Jaar 2/Signalen en datacommunicatie/ Werkcollege/Werkcollege 1.md",
+    "Jaar 2/Signalen en datacommunicatie/ Werkcollege",
+    "Jaar 2/Project/ Workshop 4 - Testen.md",
+    "Excalidraw/Tekening 6 Practicum SigDat.md",
+    "Excalidraw/Tekening 5 Practicum SigDat.md",
+    "Excalidraw/Tekening 4 Practicum SigDat.md",
+    "Excalidraw/Tekening 3 Werkcollege SigDat.md",
+    "Excalidraw/Tekening 2 Practicum SigDat.md",
+    "Excalidraw/Tekening 1 Werkcollege SigDat.md",
+    "Excalidraw/Filtering Vraag.md",
+    "Bijlages/Pasted image 20261006133139.png",
+    "Bijlages/Pasted image 20261006133137.png",
+    "Bijlages/Pasted image 20261002104258.png",
     "Jaar 2/Signalen en datacommunicatie/Oefentoetsen/Voorbeeldtoets T1 - Antwoorden.pdf",
     "Jaar 2/Signalen en datacommunicatie/Oefentoetsen/voorbeeldtoets T2 - Antwoorden.pdf",
     "Jaar 2/Signalen en datacommunicatie/Oefentoetsen/voorbeeldtoets T2 - Toetsvragen.pdf",
@@ -343,13 +357,6 @@
     "Jaar 2/Project/Kick-off.md",
     "Jaar 2/Vision/Dias/Week 5 - Inverse, stelsels en determinant - Copy.pdf",
     "Jaar 2/Vision/Dias",
-    "Jaar 2/Signalen en datacommunicatie/Week 3 - Versterking  en filtering.md",
-    "Jaar 2/Signalen en datacommunicatie/Week 2 - Versterking intro.md",
-    "Jaar 2/Dynamica/Week 5 -.md",
-    "Jaar 2/Dynamica/Week 4 - Massa-Veer-Demper Systeem.md",
-    "Jaar 2/Dynamica/Week 3 - Bewegingsvergelijkingen afhankelijke bewegingen.md",
-    "Excalidraw/Oefening 2 week 3 dynamica.md",
-    "Excalidraw/Oefening 1 week 3 dynamica.md",
     "Bijlages/Pasted image 20260928130623.png",
     "Bijlages/Pasted image 20260922135449.png",
     "Bijlages/Pasted image 20260922135345.png",
@@ -357,15 +364,7 @@
     "Bijlages/Pasted image 20260922134428.png",
     "Bijlages/Pasted image 20260922134405.png",
     "Bijlages/Pasted image 20260922134319.png",
-    "Bijlages/Pasted image 20260915140042.png",
-    "Bijlages/Pasted image 20260915135428.png",
-    "Bijlages/Pasted image 20260915134124.png",
     "Jaar 1/PDF/Testplan.pdf",
-    "Jaar 1/PDF/Project Risicoanalyse.pdf",
-    "Jaar 1/PDF/Onderzoek Mechanisch Faalmechanisme Duwmodule.pdf",
-    "Jaar 2/Dynamica/Week 1b - Tangentiëel en normaal versnelling.md",
-    "Jaar 2/Dynamica/Week 2.md",
-    "Jaar 2/Dynamica/Oefenopgaven",
     "Jaar 1/Ontwerpen in groepen/Evaporating cloud.canvas"
   ]
 }

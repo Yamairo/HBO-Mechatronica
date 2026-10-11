@@ -1,10 +1,14 @@
 ---
 created: 2026-09-08T12:59
+<<<<<<< HEAD
+updated: 2026-10-06T13:25
+=======
 <<<<<<< HEAD:Jaar 2/Signalen en datacommunicatie/Week 2 - Versterking.md
 updated: 2026-09-15T22:46
 =======
 updated: 2026-09-15T13:11
 >>>>>>> 9dab35decdf8b5117cd2d9c5dba49050bbdfb43e:Jaar 2/Signalen en datacommunicatie/Week 2 - Versterking intro.md
+>>>>>>> 4bed9247ac770b6322fdddb46b0e0c4eba138664
 ---
 # Inhoud
 
@@ -75,7 +79,7 @@ $x(f) = \int_{\infty}^{-\infty}X(f)e^{-j{2\pi ft}}df$
 
 #### Spectogram/Wateval
 
-Een spectogram is een plot, dat een frequentieverandering over de tijd laat zien.
+Een spectogram is een plot, dat een frequentieverandering over de tijd laat zien. De kleuren laten de intensiteit zien.
 
 > [!note] Waterval 
 > ![[Pasted image 20260908134923.png]]
@@ -101,7 +105,7 @@ Een spectogram is een plot, dat een frequentieverandering over de tijd laat zien
 
 ### Decibellen
 
-Het werken met $\\pu{dB}$ is erg handig wanneer er gelijkteidig met grote én kleinee getallen wordt gewerkt.
+Het werken met $\pu{dB}$ is erg handig wanneer er gelijkteidig met grote én kleinee getallen wordt gewerkt.
 
 > [!note] Verschil tussen logaritmische schaal t.o.v. lineair
 > ![[Pasted image 20260908140316.png]]

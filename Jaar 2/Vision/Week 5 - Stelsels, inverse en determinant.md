@@ -1,6 +1,10 @@
 ---
 created: 2026-09-07T10:37
+<<<<<<< HEAD
+updated: 2026-10-02T10:13
+=======
 updated: 2026-10-01T14:18
+>>>>>>> 4bed9247ac770b6322fdddb46b0e0c4eba138664
 ---
 # Inhoud
 
@@ -122,7 +126,7 @@ z\\
 \begin{pmatrix}
 6 \\
 3 \\
-2 \\
+2 \\ \\
 \end{pmatrix}
 $$
 

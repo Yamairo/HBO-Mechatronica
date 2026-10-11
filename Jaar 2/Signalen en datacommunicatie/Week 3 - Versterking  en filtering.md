@@ -1,6 +1,6 @@
 ---
 created: 2026-09-15T13:04
-updated: 2026-09-18T08:45
+updated: 2026-10-11T22:44
 ---
 # Inhoud
 
@@ -27,6 +27,10 @@ updated: 2026-09-18T08:45
 > &V_{-} = \text{Spanning op de negatieve aansluiting} \\
 > \end{align}
 > $$
+> 
+> $A = 1 + \frac{R_{1}}{R_{2}}$
+
+
 
 #### Positieve feedback
 
@@ -58,17 +62,18 @@ Wordt een voorspelbare, stabiele, storingsarme, breedbandige,
 1. Eigenschappen van ingangsignaal bepalen
 2. Eigenschappen van versterker bepalen
 3. Versterker of ingangsignaal aanpassen
+4. Voedingspanning aanpassen
 
 ### Voorbeeld
 
 
-| Voltage | Distance (cm) |
-| ------- | ------------- |
-| 2.3V    | 10            |
-| 1.4V    | 20            |
-| 0.96V   | 30            |
-| 0.75V   | 40            |
-| 0.62V   | 50            | 
+| Voltage | Distance (cm) |     |
+| ------- | ------------- | --- |
+| 2.3V    | 10            |     |
+| 1.4V    | 20            |     |
+| 0.96V   | 30            |     |
+| 0.75V   | 40            |     |
+| 0.62V   | 50            |     |
 
 ```chart
 type: line
