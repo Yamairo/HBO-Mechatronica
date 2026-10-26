@@ -4,45 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "c3db946bb4aef8bf",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
-            "id": "be4ace6abd19ee13",
+            "id": "8b588bd13db27c70",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Jaar 2/Signalen en datacommunicatie/Oefentoetsen/Voorbeeldtoets T1 - Toetsvragen.pdf",
-                "page": 5,
-                "left": -4,
-                "top": 360,
-                "zoom": 1.0167559362419694
+                "file": "Jaar 2/Signalen en datacommunicatie/Oefentoetsen/voorbeeldtoets T2 - Antwoorden.pdf",
+                "page": 4,
+                "left": -7,
+                "top": 83,
+                "zoom": 2.1519444102865966
               },
               "icon": "lucide-file-text",
-              "title": "Voorbeeldtoets T1 - Toetsvragen"
-            }
-          }
-        ]
-      },
-      {
-        "id": "1b689bd01728b698",
-        "type": "tabs",
-        "dimension": 50,
-        "children": [
-          {
-            "id": "e7a7b303c61786dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jaar 2/Signalen en datacommunicatie/Week 5 - Bemonstering en Codering.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Week 5 - Bemonstering en Codering"
+              "title": "voorbeeldtoets T2 - Antwoorden"
             }
           }
         ]
@@ -170,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jaar 2/Signalen en datacommunicatie/Week 5 - Bemonstering en Codering.md",
+                "file": "Jaar 2/Signalen en datacommunicatie/Oefentoetsen/voorbeeldtoets T2 - Antwoorden.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -229,7 +207,11 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Boeken/2425_ME_WIS1_24_T2_V1_Tentamen_uitwerkingen.pdf"
+                "file": "Boeken/2425_ME_WIS1_24_T2_V1_Tentamen_uitwerkingen.pdf",
+                "page": 1,
+                "left": -42,
+                "top": 846,
+                "zoom": 0.37797618447656844
               },
               "icon": "lucide-file-text",
               "title": "2425_ME_WIS1_24_T2_V1_Tentamen_uitwerkingen"
@@ -292,7 +274,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -317,9 +300,20 @@
       "pdf-notes:PDF.notes (New blank file)": false
     }
   },
-  "active": "8a81983d7c3dfe01",
+  "active": "8b588bd13db27c70",
   "lastOpenFiles": [
+    "Jaar 2/Signalen en datacommunicatie/Oefentoetsen/Voorbeeldtoets T1 - Toetsvragen.pdf",
+    "Jaar 2/Signalen en datacommunicatie/Oefentoetsen/Voorbeeldtoets T1 - Antwoorden.pdf",
+    "Jaar 2/Signalen en datacommunicatie/Oefentoetsen/voorbeeldtoets T2 - Toetsvragen.pdf",
+    "Jaar 2/Signalen en datacommunicatie/Week 5 - Bemonstering en Codering.md",
+    "Jaar 2/Signalen en datacommunicatie/Week 4 - Fitering en modulatie.md",
+    "Jaar 2/Signalen en datacommunicatie/Week 3 - Versterking  en filtering.md",
+    "Jaar 2/Signalen en datacommunicatie/Week 2 - Versterking intro.md",
+    "Jaar 2/Signalen en datacommunicatie/Week 1 - Wat is Datacommunicatie.md",
     "Jaar 2/Signalen en datacommunicatie/Week 6 - Toetsing.md",
+    "Boeken/2425_ME_WIS1_24_T2_V1_Tentamen_uitwerkingen.pdf",
+    "Logboek Tabel.md",
+    "Homepage.md",
     "Jaar 2/Signalen en datacommunicatie/ Werkcollege/Practicumhandleiding sessie 1+2 2.0.pdf",
     "Jaar 2/Signalen en datacommunicatie/ Werkcollege/Werkcollege 1.md",
     "Jaar 2/Signalen en datacommunicatie/ Werkcollege",
@@ -334,11 +328,7 @@
     "Bijlages/Pasted image 20261006133139.png",
     "Bijlages/Pasted image 20261006133137.png",
     "Bijlages/Pasted image 20261002104258.png",
-    "Jaar 2/Signalen en datacommunicatie/Oefentoetsen/Voorbeeldtoets T1 - Antwoorden.pdf",
     "Jaar 2/Signalen en datacommunicatie/Oefentoetsen/voorbeeldtoets T2 - Antwoorden.pdf",
-    "Jaar 2/Signalen en datacommunicatie/Oefentoetsen/voorbeeldtoets T2 - Toetsvragen.pdf",
-    "Jaar 2/Signalen en datacommunicatie/Oefentoetsen/Voorbeeldtoets T1 - Toetsvragen.pdf",
-    "Homepage.md",
     "Logboek.md",
     "Jaar 2/Project/2026 Projectboek Pick & Place v1.0.pdf",
     "Jaar 2/Vision/Week 2 - Vectoren en matrices.md",
@@ -348,13 +338,6 @@
     "Jaar 2/Vision/Week 3 - Histogrammen.md",
     "Jaar 2/Programmeren 2/Week 1.md",
     "Jaar 2/Project/Workshop 2 - Kinematica in een PLC.md",
-    "Jaar 2/Signalen en datacommunicatie/Week 1 - Wat is Datacommunicatie.md",
-    "Jaar 2/Signalen en datacommunicatie/Week 4 - Fitering en modulatie.md",
-    "Jaar 2/Signalen en datacommunicatie/Week 5 - Bemonstering en Codering.md",
-    "Jaar 2/Project/Taakverdeling.md",
-    "Jaar 2/Project/Workshop 1.md",
-    "Jaar 2/Project/Workshop 3 - HMI (Mens Machine Interface).md",
-    "Jaar 2/Project/Kick-off.md",
     "Jaar 2/Vision/Dias/Week 5 - Inverse, stelsels en determinant - Copy.pdf",
     "Jaar 2/Vision/Dias",
     "Bijlages/Pasted image 20260928130623.png",
@@ -364,7 +347,6 @@
     "Bijlages/Pasted image 20260922134428.png",
     "Bijlages/Pasted image 20260922134405.png",
     "Bijlages/Pasted image 20260922134319.png",
-    "Jaar 1/PDF/Testplan.pdf",
     "Jaar 1/Ontwerpen in groepen/Evaporating cloud.canvas"
   ]
 }
