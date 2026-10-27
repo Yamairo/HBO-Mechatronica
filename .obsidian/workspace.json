@@ -20,6 +20,16 @@
               "icon": "lucide-file",
               "title": "Week 7 Introductie arbeid, energie, vermogen en rendement"
             }
+          },
+          {
+            "id": "ed2ce242b007a60a",
+            "type": "leaf",
+            "state": {
+              "type": "style-settings",
+              "state": {},
+              "icon": "gear",
+              "title": "Style Settings"
+            }
           }
         ]
       }
@@ -147,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jaar 2/Signalen en datacommunicatie/Week 2 - Versterking intro.md",
+                "file": "Jaar 2/Dynamica/Week 7 Introductie arbeid, energie, vermogen en rendement.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -263,12 +273,11 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 283.0999755859375,
-    "collapsed": true
+    "width": 283.0999755859375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -290,14 +299,24 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Jaar 2/Dynamica/Week 5 - Oefenen met matlab.md",
+    "Jaar 2/Dynamica/Week 7 Introductie arbeid, energie, vermogen en rendement.md",
+    "Jaar 2/Dynamica/Week 2.md",
+    "Jaar 2/Dynamica/Week 4 - Massa-Veer-Demper Systeem.md",
+    "Jaar 2/Dynamica/Week 3 - Bewegingsvergelijkingen afhankelijke bewegingen.md",
+    "Jaar 2/Dynamica/Week 1b - Tangentiëel en normaal versnelling.md",
+    "Jaar 2/Dynamica/Week 1a - Introductie & Kinematica rechtlijnige beweging.md",
+    "Jaar 1/Sensoren en Actuatoren/Week 4.md",
+    "Jaar 1/Sensoren en Actuatoren/Week 3.md",
+    "Jaar 1/Sensoren en Actuatoren/Samenvatting Voor Tentamen.md",
+    "Subonderwerpen/Rendement.md",
+    "Jaar 2/Project/Delta Robot/~$DB_EndEffector_V1.SLDPRT",
     "Jaar 2/Signalen en datacommunicatie/Oefentoetsen/voorbeeldtoets T2 - Toetsvragen.pdf",
     "Jaar 2/Signalen en datacommunicatie/Oefentoetsen/voorbeeldtoets T2 - Antwoorden.pdf",
     "Jaar 2/Signalen en datacommunicatie/Oefentoetsen/Voorbeeldtoets T1 - Toetsvragen.pdf",
     "Jaar 2/Signalen en datacommunicatie/Oefentoetsen/Voorbeeldtoets T1 - Antwoorden.pdf",
     "Jaar 2/Signalen en datacommunicatie/Oefentoetsen",
-    "Jaar 2/Project/Delta Robot/~$DB_EndEffector_V1.SLDPRT",
     "Homepage.md",
-    "Jaar 2/Dynamica/Week 7 Introductie arbeid, energie, vermogen en rendement.md",
     "Jaar 2/Signalen en datacommunicatie/Week 6 - Toetsing.md",
     "Jaar 2/Signalen en datacommunicatie/Week 1 - Wat is Datacommunicatie.md",
     "Jaar 2/Project/Delta Robot/DB_EndEffector_V1.SLDPRT",
@@ -318,17 +337,7 @@
     "Excalidraw/Tekening 5 Practicum SigDat.md",
     "Jaar 2/Signalen en datacommunicatie/Week 4 - Fitering en modulatie.md",
     "Excalidraw/Tekening 2 Practicum SigDat.md",
-    "Excalidraw/Tekening 3 Werkcollege SigDat.md",
-    "Excalidraw/Tekening 1 Werkcollege SigDat.md",
-    "Jaar 2/Project/Workshop 3 - HMI (Mens Machine Interface).md",
-    "Jaar 2/Project/ Workshop 4 - Testen.md",
-    "Jaar 2/Signalen en datacommunicatie/ Werkcollege/New folder",
     "Bijlages/Pasted image 20261002104258.png",
-    "Jaar 2/Vision/Week 5 - Stelsels, inverse en determinant.md",
-    "Jaar 2/Vision/Week 1 - Digitale Beelden.md",
-    "Jaar 2/Vision/Week 2 - Vectoren en matrices.md",
-    "Jaar 2/Vision/Week 3 - Histogrammen.md",
-    "Jaar 2/Vision/Week 4 - Puntoperaties.md",
     "Bijlages/Pasted image 20260928130623.png",
     "Bijlages/Pasted image 20260922135449.png",
     "Bijlages/Pasted image 20260922135345.png",

@@ -54,5 +54,9 @@
   "Editor@@editor-grid-background-pattren": false,
   "Editor@@collapse-icon-restore": true,
   "Editor@@callout-style-select": "callout-style-customize",
-  "wikipedia-theme@@custom-accent": true
+  "wikipedia-theme@@custom-accent": true,
+  "Appearance-dark@@accent-dark": "#E58A8A",
+  "Appearance-dark@@card-highlight-dark": false,
+  "Editor@@line-hover-indicator": true,
+  "Editor@@focus-indicator-codeblock-line-number": true
 }

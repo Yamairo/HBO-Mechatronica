@@ -1,6 +1,6 @@
 ---
 created: 2026-06-17T15:10
-updated: 2026-06-17T16:50
+updated: 2026-10-12T13:43
 ---
 # Samenvatting T 2 – Actuatoren, Motoren en Sensoren
 
