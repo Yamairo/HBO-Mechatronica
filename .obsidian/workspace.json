@@ -4,47 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "c3db946bb4aef8bf",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-<<<<<<< HEAD
             "id": "e7a7b303c61786dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jaar 2/Dynamica/Week 7 Introductie arbeid, energie, vermogen en rendement.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 7 Introductie arbeid, energie, vermogen en rendement"
-            }
-          },
-          {
-            "id": "ed2ce242b007a60a",
-            "type": "leaf",
-            "state": {
-              "type": "style-settings",
-              "state": {},
-              "icon": "gear",
-              "title": "Style Settings"
-=======
-            "id": "8b588bd13db27c70",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Jaar 2/Signalen en datacommunicatie/Oefentoetsen/voorbeeldtoets T2 - Antwoorden.pdf",
-                "page": 4,
-                "left": -7,
-                "top": 83,
-                "zoom": 2.1519444102865966
+                "file": "Jaar 2/Project/2026 Projectboek Pick & Place v1.0.pdf",
+                "page": 10,
+                "left": -12,
+                "top": 523,
+                "zoom": 1.2699052610360815
               },
               "icon": "lucide-file-text",
-              "title": "voorbeeldtoets T2 - Antwoorden"
->>>>>>> 3aa57520d218ee3e38ef89cf4dfc47bc64e66645
+              "title": "2026 Projectboek Pick & Place v1.0"
             }
           }
         ]
@@ -53,15 +29,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a05e0d105106ac51",
+    "id": "a32e426702a03e11",
     "type": "split",
     "children": [
       {
-        "id": "38e56285b751bc2f",
+        "id": "eacc370d55d7311a",
         "type": "tabs",
         "children": [
           {
-            "id": "293a8dcd461d3204",
+            "id": "e1750f6645cf2149",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -76,7 +52,7 @@
             }
           },
           {
-            "id": "46c16b405107b81f",
+            "id": "46adc9db627f1e07",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -93,7 +69,7 @@
             }
           },
           {
-            "id": "48559bb7421baf03",
+            "id": "7f2bb67a061bb395",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -109,24 +85,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.3000183105469,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "51e37365160c86a0",
+    "id": "d645ff4935792e03",
     "type": "split",
     "children": [
       {
-        "id": "ee68e17b4d763629",
+        "id": "6455c1e6215bf569",
         "type": "tabs",
         "children": [
           {
-            "id": "592facfa02c1bb23",
+            "id": "c5c18dc55086ad18",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boeken/2526_ME_WIS1_24_OpgavenLesWeek9.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,11 +110,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2526_ME_WIS1_24_OpgavenLesWeek9"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "32efd738119ed857",
+            "id": "9e97f4893aa3047f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -153,7 +127,7 @@
             }
           },
           {
-            "id": "a6a30bd009da5154",
+            "id": "37a367a2c7c31af9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -168,26 +142,7 @@
             }
           },
           {
-            "id": "dd1325fdca76de6c",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-<<<<<<< HEAD
-                "file": "Jaar 2/Dynamica/Week 7 Introductie arbeid, energie, vermogen en rendement.md",
-=======
-                "file": "Jaar 2/Signalen en datacommunicatie/Oefentoetsen/voorbeeldtoets T2 - Antwoorden.pdf",
->>>>>>> 3aa57520d218ee3e38ef89cf4dfc47bc64e66645
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "5cb1a96758a0215d",
+            "id": "5604c8d22557d894",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -201,17 +156,21 @@
             }
           },
           {
-            "id": "6fffb12c0ddcf8eb",
+            "id": "f27e4fdad1b7fe0c",
             "type": "leaf",
             "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           },
           {
-            "id": "3ac10488ed77621a",
+            "id": "5c9fa0d53012df32",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -221,56 +180,7 @@
             }
           },
           {
-            "id": "3c33233a7f6d45aa",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-<<<<<<< HEAD
-=======
-            "id": "f981fb4f90552248",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Boeken/2425_ME_WIS1_24_T2_V1_Tentamen_uitwerkingen.pdf",
-                "page": 1,
-                "left": -42,
-                "top": 846,
-                "zoom": 0.37797618447656844
-              },
-              "icon": "lucide-file-text",
-              "title": "2425_ME_WIS1_24_T2_V1_Tentamen_uitwerkingen"
-            }
-          },
-          {
->>>>>>> 3aa57520d218ee3e38ef89cf4dfc47bc64e66645
-            "id": "8a81983d7c3dfe01",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {},
-              "icon": "history",
-              "title": "History"
-            }
-          },
-          {
-            "id": "94db2794a0bb4753",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "58f6f0826e1185a4",
+            "id": "4f24d1955d53f7e0",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -278,54 +188,17 @@
               "icon": "checkmark",
               "title": "Todo List"
             }
-          },
-          {
-            "id": "dbf3612889cb99bd",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "Jaar 2/Signalen en datacommunicatie/Week 5 - Bemonstering en Codering.md"
-              },
-              "icon": "lucide-info",
-              "title": "File properties"
-            }
-          },
-          {
-            "id": "a8298cd3cc0e998b",
-            "type": "leaf",
-            "state": {
-              "type": "mermaid-toolbar-view",
-              "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
-            }
-          },
-          {
-            "id": "5cbc94de9039ef1f",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-<<<<<<< HEAD
-    "width": 283.0999755859375
-=======
     "width": 300,
     "collapsed": true
->>>>>>> 3aa57520d218ee3e38ef89cf4dfc47bc64e66645
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-advanced-slides:Show Slide Preview": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -338,90 +211,27 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "homepage:Open homepage": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "pdf-notes:PDF.notes": false,
+      "pdf-notes:PDF.notes (New blank file)": false,
       "card-board:CardBoard": false
     }
   },
-<<<<<<< HEAD
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Jaar 2/Dynamica/Week 5 - Oefenen met matlab.md",
-    "Jaar 2/Dynamica/Week 7 Introductie arbeid, energie, vermogen en rendement.md",
-    "Jaar 2/Dynamica/Week 2.md",
-    "Jaar 2/Dynamica/Week 4 - Massa-Veer-Demper Systeem.md",
-    "Jaar 2/Dynamica/Week 3 - Bewegingsvergelijkingen afhankelijke bewegingen.md",
-    "Jaar 2/Dynamica/Week 1b - Tangentiëel en normaal versnelling.md",
-    "Jaar 2/Dynamica/Week 1a - Introductie & Kinematica rechtlijnige beweging.md",
-    "Jaar 1/Sensoren en Actuatoren/Week 4.md",
-    "Jaar 1/Sensoren en Actuatoren/Week 3.md",
-    "Jaar 1/Sensoren en Actuatoren/Samenvatting Voor Tentamen.md",
-    "Subonderwerpen/Rendement.md",
-    "Jaar 2/Project/Delta Robot/~$DB_EndEffector_V1.SLDPRT",
-    "Jaar 2/Signalen en datacommunicatie/Oefentoetsen/voorbeeldtoets T2 - Toetsvragen.pdf",
-    "Jaar 2/Signalen en datacommunicatie/Oefentoetsen/voorbeeldtoets T2 - Antwoorden.pdf",
-    "Jaar 2/Signalen en datacommunicatie/Oefentoetsen/Voorbeeldtoets T1 - Toetsvragen.pdf",
-    "Jaar 2/Signalen en datacommunicatie/Oefentoetsen/Voorbeeldtoets T1 - Antwoorden.pdf",
-    "Jaar 2/Signalen en datacommunicatie/Oefentoetsen",
-    "Homepage.md",
-    "Jaar 2/Signalen en datacommunicatie/Week 6 - Toetsing.md",
-    "Jaar 2/Signalen en datacommunicatie/Week 1 - Wat is Datacommunicatie.md",
-    "Jaar 2/Project/Delta Robot/DB_EndEffector_V1.SLDPRT",
-    "Jaar 2/Project/Delta Robot/Backup of DB_EndEffector_V1.SLDPRT",
-    "Jaar 2/Project/Delta Robot",
-=======
-  "active": "8b588bd13db27c70",
-  "lastOpenFiles": [
-    "Jaar 2/Signalen en datacommunicatie/Oefentoetsen/Voorbeeldtoets T1 - Toetsvragen.pdf",
-    "Jaar 2/Signalen en datacommunicatie/Oefentoetsen/Voorbeeldtoets T1 - Antwoorden.pdf",
-    "Jaar 2/Signalen en datacommunicatie/Oefentoetsen/voorbeeldtoets T2 - Toetsvragen.pdf",
-    "Jaar 2/Signalen en datacommunicatie/Week 5 - Bemonstering en Codering.md",
-    "Jaar 2/Signalen en datacommunicatie/Week 4 - Fitering en modulatie.md",
-    "Jaar 2/Signalen en datacommunicatie/Week 3 - Versterking  en filtering.md",
-    "Jaar 2/Signalen en datacommunicatie/Week 2 - Versterking intro.md",
-    "Jaar 2/Signalen en datacommunicatie/Week 1 - Wat is Datacommunicatie.md",
-    "Jaar 2/Signalen en datacommunicatie/Week 6 - Toetsing.md",
-    "Boeken/2425_ME_WIS1_24_T2_V1_Tentamen_uitwerkingen.pdf",
-    "Logboek Tabel.md",
-    "Homepage.md",
->>>>>>> 3aa57520d218ee3e38ef89cf4dfc47bc64e66645
-    "Jaar 2/Signalen en datacommunicatie/ Werkcollege/Practicumhandleiding sessie 1+2 2.0.pdf",
-    "Jaar 2/Signalen en datacommunicatie/Week 3 - Versterking  en filtering.md",
-    "Jaar 2/Signalen en datacommunicatie/Week 2 - Versterking intro.md",
-    "Bijlages/Pasted image 20261006133139.png",
-    "Bijlages/Pasted image 20261006133137.png",
-<<<<<<< HEAD
-    "Excalidraw/Filtering Vraag.md",
-    "Jaar 2/Vision/Werkcollege oplossingen/Week 2.md",
-    "Jaar 2/Signalen en datacommunicatie/Week 5 - Bemonstering en Codering.md",
-    "Jaar 1/Sensoren en Actuatoren/Week 5.md",
-    "Jaar 2/Signalen en datacommunicatie/ Werkcollege/Werkcollege 1.md",
-    "Excalidraw/Tekening 4 Practicum SigDat.md",
-    "Excalidraw/Tekening 6 Practicum SigDat.md",
-    "Excalidraw/Tekening 5 Practicum SigDat.md",
-    "Jaar 2/Signalen en datacommunicatie/Week 4 - Fitering en modulatie.md",
-    "Excalidraw/Tekening 2 Practicum SigDat.md",
-    "Bijlages/Pasted image 20261002104258.png",
-=======
-    "Bijlages/Pasted image 20261002104258.png",
-    "Jaar 2/Signalen en datacommunicatie/Oefentoetsen/voorbeeldtoets T2 - Antwoorden.pdf",
-    "Logboek.md",
-    "Jaar 2/Project/2026 Projectboek Pick & Place v1.0.pdf",
-    "Jaar 2/Vision/Week 2 - Vectoren en matrices.md",
-    "Jaar 2/Vision/Week 1 - Digitale Beelden.md",
-    "Jaar 2/Vision/Week 5 - Stelsels, inverse en determinant.md",
-    "Jaar 2/Vision/Week 4 - Puntoperaties.md",
-    "Jaar 2/Vision/Week 3 - Histogrammen.md",
-    "Jaar 2/Programmeren 2/Week 1.md",
-    "Jaar 2/Project/Workshop 2 - Kinematica in een PLC.md",
-    "Jaar 2/Vision/Dias/Week 5 - Inverse, stelsels en determinant - Copy.pdf",
-    "Jaar 2/Vision/Dias",
->>>>>>> 3aa57520d218ee3e38ef89cf4dfc47bc64e66645
-    "Bijlages/Pasted image 20260928130623.png",
-    "Bijlages/Pasted image 20260922135449.png",
-    "Bijlages/Pasted image 20260922135345.png",
-    "Bijlages/Pasted image 20260922135252.png",
-    "Bijlages/Pasted image 20260922134428.png",
-    "Bijlages/Pasted image 20260922134405.png",
-    "Bijlages/Pasted image 20260922134319.png",
-    "Jaar 1/Ontwerpen in groepen/Evaporating cloud.canvas"
+    "Jaar 2/Project/Delta Robot/End_Effector/~$bearing.SLDPRT",
+    "Jaar 2/Project/Delta Robot/End_Effector/~$Body5.SLDPRT",
+    "Jaar 2/Project/Delta Robot/End_Effector/~$Fillet2.SLDPRT",
+    "Jaar 2/Project/Delta Robot/End_Effector/~$Thread1.SLDPRT",
+    "Jaar 2/Project/Delta Robot/End_Effector/~$Servo.SLDASM",
+    "Jaar 2/Project/Delta Robot/End_Effector/~$Body3.SLDPRT",
+    "Jaar 2/Project/Delta Robot/End_Effector/~$Bal_lBearing.SLDASM",
+    "Jaar 2/Project/Delta Robot/End_Effector/~$DB_EndEffector_V1.SLDPRT",
+    "Jaar 2/Project/Delta Robot/End_Effector/~$End_Effector.SLDASM",
+    "Jaar 2/Project/Delta Robot/~$End_Effector.SLDASM",
+    "Homepage.md"
   ]
 }
