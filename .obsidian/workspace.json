@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
+                "file": "Jaar 2/Project/ Workshop 4 - Testen.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Homepage"
-            }
-          },
-          {
-            "id": "a02c4832f4e15a51",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.14.5"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.14.5"
+              "title": "Workshop 4 - Testen"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Testplan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +79,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -231,7 +219,7 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "a02c4832f4e15a51",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Homepage.md",
     "Logboek Tabel.md",
